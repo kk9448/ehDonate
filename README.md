@@ -83,7 +83,7 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 ## 网页版
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/screenshot_3516.jpg](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/screenshot_3516.jpg)
+![picture/screenshot_3516.jpg](picture/screenshot_3516.jpg)
 
 选择买币
 
