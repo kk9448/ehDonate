@@ -87,15 +87,15 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 选择买币
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled.png)
+![picture/Untitled.png](picture/Untitled.png)
 
 选择自选区, 快捷区价格比自选区要高
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%201.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%201.png)
+![picture/Untitled%201.png](picture/Untitled%201.png)
 
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%202.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%202.png)
+![picture/Untitled%202.png](picture/Untitled%202.png)
 
 币币交易中选择bch即可
 
@@ -109,17 +109,17 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 交易选项卡中, 选择c2c
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%203.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%203.png)
+![picture/Untitled%203.png](picture/Untitled%203.png)
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%204.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%204.png)
+![picture/Untitled%204.png](picture/Untitled%204.png)
 
 就可以购买usdt了, 搜索bch, 使用USDT购买BCH
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%205.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%205.png)
+![picture/Untitled%205.png](picture/Untitled%205.png)
 
 选择提现
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%206.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%206.png)
+![picture/Untitled%206.png](picture/Untitled%206.png)
 
 主网络选择BCH
 
@@ -127,8 +127,8 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 左边可以看到一串字母, 已经用红框圈选, 复制, 粘贴到币安的提现地址, 进行提现, 大约半小时到账
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/screenshot_3518.jpg](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/screenshot_3518.jpg)
+![pictur/screenshot_3518.jpg](picture/screenshot_3518.jpg)
 
-![eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%207.png](eh%E4%BD%BF%E7%94%A815%E7%BE%8E%E5%85%83%E8%BE%BE%E5%88%B0%E6%8D%90%E8%B5%A020%E7%BE%8E%E5%85%83%E7%9A%84%E6%95%88%E6%9E%9C%20a9276e7dbbd3480e874b9605754e80e0/Untitled%207.png)
+![picture/Untitled%207.png](picture/Untitled%207.png)
 
 底下输入20USD, 再点击Apply Donation就可以啦, 自动获得里区权限
