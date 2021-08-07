@@ -3,7 +3,7 @@
 先是一点小感慨
 e站捐赠页面有e站站长Tenboro的一句话   
 **You did not donate anything yet, but we still love you.**  
-每当看见这句话,心中都感慨万千. 
+每当看见这句话,都有一种回到家了的感觉.  
 在这个急功近利的年代, 有多少网站      
 套用着同样的框架, 盗着别人的资源    
 收着几十美元的会员费  
