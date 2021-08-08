@@ -1,19 +1,5 @@
 # e站捐赠用户特别福利
 
-先是一点小感慨  
-e站捐赠页面有e站站长Tenboro的一句话   
-**You did not donate anything yet, but we still love you.**  
-每当看见这句话,都有一种回到家了的感觉.  
-在这个急功近利的年代, 有多少网站      
-套用着同样的框架, 盗着别人的资源    
-收着几十美元的会员费  
-吃着多次搬运烂钱  
-再看e站  
-🍍的一句 but we still love you    
-不禁让人感叹, 🍍的格局之大
-
-正文
-==================================
 相对于非捐赠用户, 捐赠用户有一些额外福利
 先上wiki图
 ![](picture/Donate_details.jpg)
