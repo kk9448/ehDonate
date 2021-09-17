@@ -94,14 +94,13 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 ## 网页版
 
 左上角,选择一键买币
-![picture/screenshot_3538.jpg](picture/screenshot_3538.jpg)
-
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
 输入要购买的金额, 得到美元稳定币USDT
-
-![picture/screenshot_3516.jpg](picture/screenshot_3534.jpg)
+![picture/screenshot_3538.jpg](picture/screenshot_3538.jpg)
 
 闪兑中选择bch即可, 输入需要交换的usdt
+![picture/screenshot_3516.jpg](picture/screenshot_3534.jpg)
+
 ![picture/screenshot_3537.jpg](picture/screenshot_3537.jpg)
 
 
