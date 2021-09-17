@@ -95,16 +95,15 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 ![picture/screenshot_3516.jpg](picture/screenshot_3516.jpg)
 
-选择买币
-
-![picture/Untitled.png](picture/Untitled.png)
-
-
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
+输入要购买的金额, 得到美元稳定币USDT
 
-![picture/Untitled%202.png](picture/Untitled%202.png)
+![picture/screenshot_3534.jpg](picture/screenshot_3534.jpg)
 
-币币交易中选择bch即可
+闪兑中选择bch即可, 输入需要交换的usdt
+![picture/screenshot_3537.jpg](picture/screenshot_3537.jpg)
+
+
 
 ## 手机版
 
@@ -118,14 +117,24 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 ![picture/Untitled%203.png](picture/Untitled%203.png)
 
-![picture/Untitled%204.png](picture/Untitled%204.png)
+![picture/photo_2021-09-17_21-33-11.jpg](picture/photo_2021-09-17_21-33-11.jpg)
 
-就可以购买usdt了, 搜索bch, 使用USDT购买BCH
+就可以购买usdt了,
+选择交易, 然后选择闪兑选项卡
 
-![picture/Untitled%205.png](picture/Untitled%205.png)
+![picture/photo_2021-09-17_21-42-47.jpg](picture/photo_2021-09-17_21-42-47.jpg)
+
+选择从usdt到bch, 输入数量, 询价,兑换
+![picture/photo_2021-09-17_21-47-10.jpg](picture/photo_2021-09-17_21-47-10.jpg)
+
+在资金, 现货选项卡中, 点击bch
+
+![picture/WechatIMG5.jpeg](picture/WechatIMG5.jpeg)
 
 选择提现
+![picture/WechatIMG6.jpeg](picture/WechatIMG6.jpeg)
 
+现在要填写提现地址, 要去e站自己的账户中获取
 ![picture/Untitled%206.png](picture/Untitled%206.png)
 
 主网络选择BCH
