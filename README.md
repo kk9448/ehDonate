@@ -120,7 +120,7 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 交易选项卡中, 选择c2c
 
-![picture/Untitled%203.png](picture/Untitled%203.png)
+![picture/Untitled_3.png](picture/Untitled_3.png)
 
 就可以使用银行卡,微信,支付宝,购买usdt了
 
@@ -141,7 +141,7 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 ![picture/WechatIMG6.jpeg](picture/WechatIMG6.jpeg)
 
 现在要填写提现地址, 我们要去自己的e站账户中获取
-![picture/Untitled%206.png](picture/Untitled%206.png)
+![picture/Untitled_6.png](picture/Untitled_6.png)
 
 主网络选择BCH
 
@@ -151,6 +151,6 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 ![pictur/screenshot_3518.jpg](picture/screenshot_3518.jpg)
 
-![picture/Untitled%207.png](picture/Untitled%207.png)
+![picture/Untitled_7.png](picture/Untitled_7.png)
 
 底下输入20USD, 再点击Apply Donation就可以啦, 自动获得里区权限
