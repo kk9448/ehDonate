@@ -82,6 +82,7 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 3. [火币](https://www.huobi.af/zh-cn/topic/double-reward/?invite_code=4zwd2223&t=1624157984421)(千分之二的手续费, 操作界面一般)
 
 这是币安的官方教程, 可以结合本文一起看
+
 https://www.binance.com/zh-TC/support/faq/360043832851
 
 
