@@ -5,8 +5,8 @@ e站里站: https://exhentai.org/ </br>
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
 
 对于实在不想自己操作的朋友, 可以让楼主代为捐赠, 铜星140RMB(自己捐赠成本约为120RMB)
-详情请见
-带捐赠
+详情请见</br>
+[代捐赠](https://github.com/kk9448/ehDonate/blob/main/%25E4%25BB%25A3%25E6%258D%2590%25E8%25B5%25A0.md)
 # 1.捐赠与不捐赠区别
 
 eh有一部分内容(里区), 仅针对部分用户开放
@@ -81,9 +81,9 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 币圈3大交易所, 最大的交易所为币安, 其次为火币和Okex, **个人推荐[币安](https://www.binance.com/zh-CN/register?ref=36615347)**(需要翻墙), 区别如下
 
-1. [币安](https://www.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费)
-2. [Okex](https://www.ouyi.cc/join/2260323)(千分之一的手续费)
-3. [火币](https://www.huobi.af/zh-cn/topic/double-reward/?invite_code=4zwd2223&t=1624157984421)(千分之二的手续费, 大陆已经清退)
+1. [币安](https://www.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费, 操作界面友好)
+2. [Okex](https://www.ouyi.cc/join/2260323)(千分之一的手续费, 操作界面不太友好, 不适合新人)
+3. [火币](https://www.huobi.af/zh-cn/topic/double-reward/?invite_code=4zwd2223&t=1624157984421)(千分之二的手续费, 操作界面一般)
 
 这是币安的官方教程, 可以结合本文一起看
 
