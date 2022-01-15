@@ -6,6 +6,7 @@ e站里站: https://exhentai.org/ </br>
 
 对于实在不想自己操作的朋友, 可以让楼主代为捐赠, 铜星140RMB(自己捐赠成本约为100~120RMB)
 详情请见</br>
+
 [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 # 1.捐赠与不捐赠区别
 
