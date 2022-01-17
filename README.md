@@ -4,7 +4,7 @@ e站表站: https://e-hentai.org/ </br>
 e站里站: https://exhentai.org/ </br>
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
 
-对于实在不想自己操作的朋友, 可以让楼主代为捐赠, 铜星140RMB(自己捐赠成本约为100~120RMB)
+对于实在不想自己操作的朋友, 可以让楼主代为捐赠, 铜星180RMB(自己立刻捐赠成本约为130RMB)
 详情请见</br>
 
 [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
