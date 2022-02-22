@@ -55,20 +55,42 @@ pokemon -furry
 
 示例5
 
-**双引号用来表示有多个单词的tag**
+**双引号""用来表示有多个单词的tag**
 
 f:"big breasts" f:"sex toys" f:"double penetration"
 
 如果这里写成这样 f:big breasts, 系统会把它当成2个搜索条件
 
-f:big和breasts
+f:big和breasts,
 
-会匹配标签中的f:big和标题或者tag中带有breasts的交集
+会匹配标签中的f:big和标题或者tag中带有breasts的交集(对breasts进行搜索时,会匹配f:huge breasts)
 
 ![](assets/16454613018671.jpg)
 
 而f:"big breasts"会精确匹配, 把big breasts当成是一个tag,而不是分开的两个
 
+示例6
+
+**$表示强制结尾**
+
+c:sakura$(c表示character)
+
+使用$号结尾, 搜索结果中将不包含c:sakura kinomoto和c:sakura haruno等标签,搜索结果的标签必须为c:sakura, 不能多任何一个字符
+
+再举一个例子
+f:big$表示要搜索名字为big的标签, 但很明显,eh没有big这个标签, 所以搜索结果为空
+
+![](assets/16455435620837.jpg)
+
+示例7
+
+通配符
+
+*可以表示0个1个或者多个任意字符
+
+举例
+
+`comic*xo*4`可以匹配 `comicYYYYYYYxoKKKKKKK4`(任意个字符)或者`comicxo4`(0个字符)
 
 
 待更新....
