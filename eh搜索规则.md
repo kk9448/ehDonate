@@ -15,7 +15,7 @@ m是NameSpace, milf是Tag
 
 f:milf(等同于female:milf)
 
-表示**只搜索标签**, 标签的NameSpace为f, tag为milf
+表示**只搜索标签**, NameSpace为f, tag为milf
 
 如下图所示, 搜索结果有42,203个
 
@@ -59,7 +59,9 @@ pokemon -furry
 
 f:"big breasts" f:"sex toys" f:"double penetration"
 
-如果这里写成这样 f:big breasts
+如果这里写成这样 f:big breasts, 系统会把它当成2个搜索条件
+
+f:big和breasts
 
 会匹配标签中的f:big和标题或者tag中带有breasts的交集
 
