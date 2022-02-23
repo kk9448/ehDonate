@@ -1,5 +1,7 @@
 # e站捐赠用户特别福利
 
+有疑问的话, 欢迎加入群组讨论 https://t.me/carbon_research
+
 相对于非捐赠用户, 捐赠用户有一些额外福利
 先上wiki图
 ![](picture/Donate_details.jpg)
