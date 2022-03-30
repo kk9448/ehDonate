@@ -8,15 +8,15 @@
 
     2.对标签进行搜索
 
-是一个基于NameSpace(命名空间) + Tags(标签)的搜索系统
+是一个基于NameSpace(命名空间) + Tags(标签)的搜索系统比如
 
-比如m:milf
+`m:milf`
 
 m是NameSpace, milf是Tag
 
 示例一
 
-f:milf(等同于female:milf)
+   `f:milf`(等同于female:milf)
 
 表示**只搜索标签**, NameSpace为f, tag为milf
 
