@@ -27,7 +27,7 @@ m是NameSpace, milf是Tag
 
 ## 示例2
 
-milf
+`milf`
 
 表示**同时搜索标签和标题**, 如下图所示, 搜索结果有42,543个
 
@@ -40,7 +40,7 @@ milf
 
 搜索词应以空格分隔（逗号不能用作分隔符), **表示交集**
 
-f:milf m:muscle
+`f:milf m:muscle`
 
 同时拥有f:milf和m:muscle的画廊为1658个
 
@@ -50,7 +50,7 @@ f:milf m:muscle
 
 -号表示去除
 
-pokemon -furry
+`pokemon -furry`
 
 表示同时在标题和标签下搜索pokemon, 之后再去除标题和标签中所有带furry的画廊
 
@@ -60,7 +60,7 @@ pokemon -furry
 
 **双引号""用来表示有多个单词的tag**
 
-f:"big breasts" f:"sex toys" f:"double penetration"
+> f:"big breasts" f:"sex toys" f:"double penetration"
 
 如果这里写成这样 f:big breasts, 系统会把它当成2个搜索条件
 
