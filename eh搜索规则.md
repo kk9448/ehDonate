@@ -60,8 +60,8 @@ m是NameSpace, milf是Tag
 
 **双引号""用来表示有多个单词的tag**
 
-`f:"big breasts" f:"sex toys" f:"double penetration"
-`
+`f:"big breasts" f:"sex toys" f:"double penetration"`
+
 如果这里写成这样 f:big breasts, 系统会把它当成2个搜索条件
 
 f:big和breasts,
