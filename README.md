@@ -163,4 +163,4 @@ https://www.binance.com/zh-TC/support/faq/360043832851
 
 ![picture/Untitled_7.png](picture/Untitled_7.png)
 
-底下输入20USD, 再点击Apply Donation就可以啦, 自动获得里区权限
+底下输入20USD, 再点击Apply Donation就可以啦, 之后就可以在表站搜索到里站的内容
