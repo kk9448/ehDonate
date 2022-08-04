@@ -10,7 +10,7 @@ e站里站: https://exhentai.org/ </br>
 [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
 目录
-1.[e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh%25E6%258D%2590%25E8%25B5%25A0%25E7%2594%25A8%25E6%2588%25B7%25E7%2589%25B9%25E5%2588%25AB%25E7%25A6%258F%25E5%2588%25A9.md)
+1.[e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
 
 2.[eh搜索规则](https://github.com/kk9448/ehDonate/blob/main/eh%25E6%2590%259C%25E7%25B4%25A2%25E8%25A7%2584%25E5%2588%2599.md)
 
