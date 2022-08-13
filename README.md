@@ -36,7 +36,7 @@ https://t.me/carbon_research
 
 # 2.如何购买加密货币
 
-**个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=36615347),世界最大的数字货币交易所**(需要翻墙), 区别如下
+**个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=36615347),世界最大的数字货币交易所**(需要翻墙)
 
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费, 操作界面友好, [邀请码 36615347](https://accounts.binance.com/zh-CN/register?ref=36615347))
 
