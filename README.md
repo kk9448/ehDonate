@@ -36,7 +36,7 @@ https://t.me/carbon_research
 
 # 2.如何购买加密货币
 
-币圈3大交易所, 最大的交易所为币安, 其次为火币和Okex, **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=36615347)**(需要翻墙), 区别如下
+**个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=36615347),世界最大的数字货币交易所**(需要翻墙), 区别如下
 
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费, 操作界面友好, [邀请码 36615347](https://accounts.binance.com/zh-CN/register?ref=36615347))
 
@@ -44,7 +44,7 @@ https://t.me/carbon_research
 
 [https://accounts.binance.com/zh-CN/register?ref=36615347](https://accounts.binance.com/zh-CN/register?ref=36615347)
 
-所有的数字货币交易, 都是以美元稳定币USDT进行交易的
+所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, 1USDT就相当于1美元)进行交易的
 
 注册账户, 完成身份认证后, 就可以购买USDT了
 
