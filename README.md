@@ -92,9 +92,9 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
 # 4.如何购买加密货币
 
-币圈3大交易所, 最大的交易所为币安, 其次为火币和Okex, **个人推荐[币安](https://www.binance.com/zh-CN/register?ref=36615347)**(需要翻墙), 区别如下
+币圈3大交易所, 最大的交易所为币安, 其次为火币和Okex, **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=36615347)**(需要翻墙), 区别如下
 
-1. [币安](https://accounts.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费, 操作界面友好, 邀请码 36615347)
+1. [币安](https://accounts.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费, 操作界面友好, [邀请码 36615347](https://accounts.binance.com/zh-CN/register?ref=36615347))
 2. [Okex](https://www.ouyi.cc/join/2260323)(千分之一的手续费, 操作界面不太友好, 不适合新人)
 
 火币和Okex普通商户出金汇率可能比币安稍微高一些, 新韭菜很容易贪那几毛钱的利润, 然后收到收到**黑钱, 导致冻卡**(具体可百度), 对于新人来说, 币安做的完善得多, 不用担心太多的事情, 直接用就可以, 不用太担心黑钱的问题
