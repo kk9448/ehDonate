@@ -44,7 +44,7 @@ https://t.me/carbon_research
 
 [https://accounts.binance.com/zh-CN/register?ref=36615347](https://accounts.binance.com/zh-CN/register?ref=36615347)
 
-所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, 1USDT就相当于1美元)进行交易的
+所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
 
 注册账户, 完成身份认证后, 就可以购买USDT了
 
