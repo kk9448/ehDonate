@@ -10,6 +10,8 @@ e站里站: https://exhentai.org/ </br>
 [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
 # 目录
+*  [ex无法跳页的解决方案](https://github.com/kk9448/ehDonate/blob/main/ex无法跳页的解决方案.md)
+
 *  [如何使用15美元完成20美元捐赠](https://github.com/kk9448/ehDonate/blob/main/README.md)
 
 *  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
