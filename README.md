@@ -41,7 +41,12 @@ https://t.me/carbon_research
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=36615347),世界最大的数字货币交易所**(需要翻墙)
 
+**其次是[OKX][1], 国内使用的也比较多**
+
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=36615347) (千分之一的手续费, 操作界面友好, [邀请码 36615347](https://accounts.binance.com/zh-CN/register?ref=36615347))
+
+2. [OKX](https://cnouyi.care/join/2260323) (千分之一的手续费, 操作界面相比币安稍差, [邀请码 2260323](https://cnouyi.care/join/2260323))
+
 
 首先, 在币安注册账户, 可以使用我的邀请链接
 
