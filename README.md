@@ -43,9 +43,10 @@ https://t.me/carbon_research
 
 **其次是[OKX][1], 国内使用的也比较多**
 
-1. [币安](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1) (千分之一的手续费, 操作界面友好)
+1. [币安](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1) (千分之一的手续费, 操作界面友好, 邀请码 [T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1))
 
-2. [OKX](https://cnouyi.care/join/2260323) (千分之一的手续费, 操作界面相比币安稍差)
+2. [OKX](www.ddrtf.com/join/2260323) (千分之一的手续费, 操作界面相比币安稍差, 邀请码 [2260323](www.ddrtf.com/join/2260323))
+
 
 首先, 在币安注册账户, 可以使用我的邀请链接, 手续费20%返现
 
