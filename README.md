@@ -50,6 +50,13 @@ https://t.me/carbon_research
 
 首先, 在币安注册账户, 可以使用我的邀请链接, 手续费20%返现
 
+币安活动:
+2023年4月20日00:00至2023年5月10日23:59之间
+成功报名, 并完成身份认证, 将赠送10USDT
+报名链接如下
+https://www.binance.com/zh-TC/activity/marketing-campaign/4ebaeedbc0d245c3af655c7ef143807e
+
+
 [https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
