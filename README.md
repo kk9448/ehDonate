@@ -52,11 +52,19 @@ https://t.me/carbon_research
 [https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
 
 币安活动:
-2023年4月20日00:00至2023年5月10日23:59之间
-成功报名, 并完成身份认证, 将赠送10USDT
-报名链接如下
-https://www.binance.com/zh-TC/activity/marketing-campaign/4ebaeedbc0d245c3af655c7ef143807e
+2023年5月15日  -  2023年5月31日
+成功报名, 并完成身份认证, 将赠送10美元等值BTC
 
+先注册账号(需要翻墙)
+[https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
+
+免翻墙注册链接
+[https://www.bitechan.kim/zh-CN/register?ref=T9WB4BF1&registerChannel=goose](https://www.bitechan.kim/zh-CN/register?ref=T9WB4BF1&registerChannel=goose)
+
+再报名,报名链接如下
+https://www.binance.com/zh-CN/activity/marketing-campaign/23724971a29c44efbc925d4b79e0227d
+
+注意: 注册完成后,先不要认证身份, 报名活动之后, 再进行认证, 即可获得10美元等值BTC
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
 
