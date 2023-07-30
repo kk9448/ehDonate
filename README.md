@@ -79,13 +79,18 @@ https://www.binance.com/zh-CN/activity/marketing-campaign/23724971a29c44efbc925d
 输入要购买的金额, 得到美元稳定币USDT
 ![picture/screenshot_3538.jpg](picture/screenshot_3538.jpg)
 
-闪兑中选择卖出usdt买入bch, 输入需要卖出的usdt
+首页中选择最上方的搜索框, 输入bch
 
-进行兑换
+![picture/首页.jpg](picture/首页.jpg)
 
-![picture/screenshot_3516.jpg](picture/screenshot_3534.jpg)
+选择bch/usdt交易对
+![picture/输入bch.jpg](picture/输入bch.jpg)
 
-![picture/screenshot_3537.jpg](picture/screenshot_3537.jpg)
+点击买入
+![picture/买入bch.jpg](picture/买入bch.jpg)
+
+输入20,点击确定
+![picture/输入20.jpg](picture/输入20.jpg)
 
 
 
@@ -93,7 +98,7 @@ https://www.binance.com/zh-CN/activity/marketing-campaign/23724971a29c44efbc925d
 
 在google play搜索binance既可以下载
 
-注册时可以使用我的[邀请码 36615347](https://accounts.binance.com/zh-CN/register?ref=36615347)
+注册时可以使用我的[邀请码 T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
 
 注册账户后
 
@@ -105,13 +110,19 @@ https://www.binance.com/zh-CN/activity/marketing-campaign/23724971a29c44efbc925d
 
 ![picture/photo_2021-09-17_21-33-11.jpg](picture/photo_2021-09-17_21-33-11.jpg)
 
+首页中选择最上方的搜索框, 输入bch
+![picture/首页.jpg](picture/首页.jpg)
 
-之后选择交易, 然后选择闪兑选项卡
 
-![picture/photo_2021-09-17_21-42-47.jpg](picture/photo_2021-09-17_21-42-47.jpg)
+选择bch/usdt交易对
+![picture/输入bch.jpg](picture/输入bch.jpg)
 
-选择从usdt到bch, 输入数量, 询价,兑换
-![picture/photo_2021-09-17_21-47-10.jpg](picture/photo_2021-09-17_21-47-10.jpg)
+点击买入
+![picture/买入bch.jpg](picture/买入bch.jpg)
+
+输入20,点击确定
+![picture/输入20.jpg](picture/输入20.jpg)
+
 
 之后在资金, 现货选项卡中, 点击bch
 ![picture/WechatIMG5.jpeg](picture/WechatIMG5.jpeg)
