@@ -77,7 +77,7 @@ https://www.binance.com/zh-CN/activity/marketing-campaign/23724971a29c44efbc925d
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
 
 输入要购买的金额, 得到美元稳定币USDT
-![picture/screenshot_3538.jpg](picture/screenshot_3538.jpg)
+![picture/网页版首页.jpg](picture/screenshot_3538.jpg)
 
 首页中选择最上方的搜索框, 输入bch
 
