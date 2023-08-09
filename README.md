@@ -104,7 +104,7 @@ https://www.binance.com/zh-CN/activity/marketing-campaign/23724971a29c44efbc925d
 
 交易选项卡中, 选择c2c
 
-![picture/Untitled_3.png](picture/Untitled_3.png)
+![picture/手机交易选项卡C2C.png](picture/Untitled_3.png)
 
 就可以使用银行卡,微信,支付宝,购买usdt了
 
