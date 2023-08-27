@@ -117,11 +117,11 @@ Multi-Page Viewer Thumbnail Pane:
 显示预览图, 选择Show
 
 
-  [1]: http://sinner.ehentai.life/usr/uploads/2023/01/2169861186.jpg
-  [2]: http://sinner.ehentai.life/usr/uploads/2023/01/3602378395.png
-  [3]: http://sinner.ehentai.life/usr/uploads/2023/01/4036165884.png
-  [4]: http://sinner.ehentai.life/usr/uploads/2023/01/1035705903.png
-  [5]: http://sinner.ehentai.life/usr/uploads/2023/01/3815684319.png
-  [6]: http://sinner.ehentai.life/usr/uploads/2023/01/1780974548.png
-  [7]: http://sinner.ehentai.life/usr/uploads/2023/01/2173894386.png
-  [8]: http://sinner.ehentai.life/usr/uploads/2023/01/4061132242.png
+  [1]: http://sinner.ehentai.info/usr/uploads/2023/01/2169861186.jpg
+  [2]: http://sinner.ehentai.info/usr/uploads/2023/01/3602378395.png
+  [3]: http://sinner.ehentai.info/usr/uploads/2023/01/4036165884.png
+  [4]: http://sinner.ehentai.info/usr/uploads/2023/01/1035705903.png
+  [5]: http://sinner.ehentai.info/usr/uploads/2023/01/3815684319.png
+  [6]: http://sinner.ehentai.info/usr/uploads/2023/01/1780974548.png
+  [7]: http://sinner.ehentai.info/usr/uploads/2023/01/2173894386.png
+  [8]: http://sinner.ehentai.info/usr/uploads/2023/01/4061132242.png
