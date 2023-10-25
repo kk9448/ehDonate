@@ -4,6 +4,9 @@ e站表站: https://e-hentai.org/ </br>
 e站里站: https://exhentai.org/ </br>
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
 
+视频教程
+https://www.youtube.com/watch?v=Ti5jsO7lg_M&t=16s
+
 对于实在不想自己操作的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB)
 详情请见</br>
 
