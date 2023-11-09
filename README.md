@@ -5,9 +5,76 @@ e站里站: https://exhentai.org/ </br>
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
 
 视频教程
-https://www.youtube.com/watch?v=Ti5jsO7lg_M&t=16s
 
-对于实在不想自己操作的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB)
 详情请见</br>
 
 [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
@@ -47,8 +114,6 @@ https://t.me/carbon_research
 **其次是[OKX][1], 国内使用的也比较多**
 
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1) (千分之一的手续费, 操作界面友好, 邀请码 [T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1))
-
-2. [OKX](www.ddrtf.com/join/2260323) (千分之一的手续费, 操作界面相比币安稍差, 邀请码 [2260323](www.ddrtf.com/join/2260323))
 
 
 首先, 在币安注册账户, 可以使用我的邀请链接, 最高级别手续费返现
