@@ -47,7 +47,7 @@ https://t.me/carbon_research
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1) (千分之一的手续费, 操作界面友好, 邀请码 [T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1))
 
 
-首先, 在币安注册账户, 可以使用我的邀请链接(不要使用美国和日本的ip注册, 币安不对这两个国家提供服务), 赠送3USDT,以及最高级手续费返现. 
+首先, 在币安注册账户, 可以使用我的邀请链接(推荐使用台湾ip, 不要使用美国和日本的ip注册, 币安不对这两个国家提供服务), 赠送3USDT,以及最高级手续费返现. 
 [https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
 
 先注册账号(需要翻墙)
