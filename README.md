@@ -6,7 +6,10 @@ e站里站: https://exhentai.org/ </br>
 
 [视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)
 
-的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB)
+不明白的地方可以tg群里提问
+https://t.me/carbon_research
+
+实在嫌麻烦的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB)
 详情请见</br>
 
 [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
@@ -47,7 +50,7 @@ https://t.me/carbon_research
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1) (千分之一的手续费, 操作界面友好, 邀请码 [T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1))
 
 
-首先, 在币安注册账户, 可以使用我的邀请链接(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 赠送3USDT,以及最高级手续费返现. 
+首先, 在币安注册账户, 如果使用我的邀请链接, 可以获得最高级手续费返现(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 完成注册后,请 telegram 私聊 @carbon_x 领取3/10usdt [注意，如果你不填邀请码T9WB4BF1或不是优惠链接，就享受不了优惠，净亏！]
 [https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
 
 先注册账号(需要翻墙)
