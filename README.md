@@ -50,13 +50,13 @@ https://t.me/carbon_research
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1) (千分之一的手续费, 操作界面友好, 邀请码 [T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1))
 
 
-首先, 在币安注册账户, 如果使用我的邀请链接, 可以获得最高级手续费返现(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 完成注册后,请 telegram 私聊 @carbon_x 领取3/12usdt [注意，如果你不填邀请码T9WB4BF1或不是优惠链接，就享受不了优惠，净亏！]
+首先, 在币安注册账户, 如果使用我的邀请链接, 可以获得最高级手续费返现(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 完成注册后,请 telegram 私聊 @carbon_x 领取3/12usdt [注意，如果你不填邀请码R1SE0A44或不是优惠链接，就享受不了优惠，净亏！]
 
 先注册账号(需要翻墙)
-[https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
+[https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 免翻墙注册链接
-[https://accounts.suitechsui.in/zh-CN/register?ref=T9WB4BF1](https://accounts.suitechsui.in/zh-CN/register?ref=T9WB4BF1)
+[https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44)
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
 
