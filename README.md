@@ -76,6 +76,7 @@ https://t.me/carbon_research
 ![picture/输入bch.jpeg](picture/输入bch.jpeg)
 
 选择bch/usdt交易对
+![选择bch_usdt交易对.jpeg](picture/选择bch_usdt交易对.jpeg)
 
 
 点击买入
