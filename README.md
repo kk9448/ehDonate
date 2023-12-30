@@ -76,13 +76,16 @@ https://t.me/carbon_research
 ![picture/输入bch.jpeg](picture/输入bch.jpeg)
 
 选择bch/usdt交易对
+
 ![选择bch_usdt交易对.jpeg](picture/选择bch_usdt交易对.jpeg)
 
 
 点击买入
+
 ![picture/点击买入.jpeg](picture/点击买入.jpeg)
 
 输入20,选择市单价,点击确定
+
 ![picture/输入20.jpeg](picture/输入20.jpeg)
 
 
