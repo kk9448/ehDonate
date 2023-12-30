@@ -118,15 +118,15 @@ https://t.me/carbon_research
 点击买入
 ![picture/点击买入.jpeg](picture/点击买入.jpeg)
 
-输入20,点击确定
+选择市单价, 输入20,点击买入bch
 ![picture/输入20.jpeg](picture/输入20.jpeg)
 
 
 之后在资金, 现货选项卡中, 点击bch
-![picture/WechatIMG5.jpeg](picture/WechatIMG5.jpeg)
+![picture/点击bch.jpeg](picture/点击bch.jpeg)
 
 选择提现
-![picture/WechatIMG6.jpeg](picture/WechatIMG6.jpeg)
+![picture/选择提现.jpeg](picture/选择提现.jpeg)
 
 现在要填写提现地址, 我们要去自己的e站账户中获取
 ![picture/Untitled_6.png](picture/Untitled_6.png)
