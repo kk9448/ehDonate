@@ -100,24 +100,26 @@ https://t.me/carbon_research
 
 交易选项卡中, 选择c2c
 
-![picture/手机交易选项卡C2C.png](picture/Untitled_3.png)
+![picture/手机交易选项卡C2C.jpeg](picture/手机交易选项卡C2C.jpeg)
 
 就可以使用银行卡,微信,支付宝,购买usdt了
+选择快捷区, 输入150
 
-![picture/photo_2021-09-17_21-33-11.jpg](picture/photo_2021-09-17_21-33-11.jpg)
+![picture/购买usdt.jpeg](picture/购买usdt.jpeg)
 
 首页中选择最上方的搜索框, 输入bch
-![picture/首页.jpg](picture/首页.jpg)
+
+![picture/输入bch.jpeg](picture/输入bch.jpeg)
 
 
 选择bch/usdt交易对
-![picture/输入bch.jpg](picture/输入bch.jpg)
+![picture/选择bch_usdt交易对.jpeg](picture/选择bch_usdt交易对.jpeg)
 
 点击买入
-![picture/买入bch.jpg](picture/买入bch.jpg)
+![picture/点击买入.jpeg](picture/点击买入.jpeg)
 
 输入20,点击确定
-![picture/输入20.jpg](picture/输入20.jpg)
+![picture/输入20.jpeg](picture/输入20.jpeg)
 
 
 之后在资金, 现货选项卡中, 点击bch
