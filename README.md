@@ -94,7 +94,7 @@ https://t.me/carbon_research
 
 在google play搜索binance既可以下载
 
-注册时可以使用我的[邀请码 T9WB4BF1](https://accounts.binance.com/zh-CN/register?ref=T9WB4BF1)
+注册时可以使用我的[邀请码 R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
 
 注册账户后
 
