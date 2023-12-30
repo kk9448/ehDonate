@@ -80,10 +80,10 @@ https://t.me/carbon_research
 
 
 点击买入
-![picture/买入bch.jpg](picture/买入bch.jpg)
+![picture/点击买入.jpeg](picture/点击买入.jpeg)
 
 输入20,点击确定
-![picture/输入20.jpg](picture/输入20.jpg)
+![picture/输入20.jpeg](picture/输入20.jpeg)
 
 
 
