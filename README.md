@@ -73,10 +73,10 @@ https://t.me/carbon_research
 
 首页中选择最上方的搜索框, 输入bch
 
-![picture/首页.jpg](picture/首页.jpg)
+![picture/输入bch.jpeg](picture/输入bch.jpeg)
 
 选择bch/usdt交易对
-![picture/输入bch.jpeg](picture/输入bch.jpeg)
+
 
 点击买入
 ![picture/买入bch.jpg](picture/买入bch.jpg)
