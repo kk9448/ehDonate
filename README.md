@@ -128,10 +128,13 @@ https://t.me/carbon_research
 选择提现
 ![picture/选择提现.jpeg](picture/选择提现.jpeg)
 
-现在要填写提现地址, 我们要去自己的e站账户中获取
-![picture/Untitled_6.png](picture/Untitled_6.png)
+选择通过区块链转账
+![picture/选择通过区块链转账.jpeg](picture/选择通过区块链转账.jpeg)
 
-主网络选择BCH
+提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch
+输入提现的数量
+![picture/选择bch网络.jpeg](picture/选择bch网络.jpeg)
+
 
 然后进入e站, My Home → Donation → Bitcoin Cash 
 
