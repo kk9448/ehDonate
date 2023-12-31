@@ -47,7 +47,9 @@ https://t.me/carbon_research
 进入e站, My Home → Donation → Bitcoin Cash 
 
 左边可以看到一串字母
+
 qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
+
 这就是我们的bch钱包地址, 我们之后要用
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
@@ -72,13 +74,16 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 注册账户, 完成身份认证后, 就可以购买USDT了
 
-## 网页版
+## 网页版 [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
+
+切换语言为简体中文
+![切换语言.jpeg](picture/切换语言.jpeg)
 
 左上角,选择一键买币
 
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
 
-输入要购买的金额, 得到美元稳定币USDT
+输入要购买的金额150, 得到美元稳定币USDT
 ![picture/网页版首页.jpg](picture/网页版首页.jpg)
 
 首页中选择最上方的搜索框, 输入bch
