@@ -47,11 +47,12 @@ https://t.me/carbon_research
 进入e站, My Home → Donation → Bitcoin Cash 
 
 左边可以看到一串字母
+qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
+这就是我们的bch钱包地址, 我们之后要用
+![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
-![pictur/screenshot_3518.jpg](picture/screenshot_3518.jpg)
 
-
-# 2.如何购买数字货币
+# 3.如何购买数字货币
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙)
 
@@ -147,15 +148,19 @@ https://t.me/carbon_research
 
 然后进入e站, My Home → Donation → Bitcoin Cash 
 
-左边可以看到一串字母, 已经用红框圈选, 复制, 粘贴到币安的提现地址, 进行提现, 大约半小时到账
+复制我们第一步得到的地址, 粘贴到币安的提现地址, 提现
 
-![pictur/screenshot_3518.jpg](picture/screenshot_3518.jpg)
+![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
-![picture/Untitled_7.png](picture/Untitled_7.png)
+在框里输入20, 蓝色方块里显示的就是你最少需要的bch数量,
+在提现时, 扣去手续费后, 最小的数量为蓝色方块里的数量
 
-底下输入20USD, 再点击Apply Donation就可以啦, 之后就可以在表站搜索到里站的内容
+![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
 
-# 3.如何使用15美元达到捐赠20美元的效果
+
+到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
+
+# 4.如何使用15美元达到捐赠20美元的效果
 
 首先不建议在localbitcoin直接使用支付宝,微信直接购买BTC进行捐赠, 使用支付宝,微信小额购买BTC, BTC基本会溢价5%-10%, 再加上btc高昂的体现手续费, 使用人民币直接购买btc, 20美元捐赠, 需要花费26-30美元
 
@@ -196,7 +201,7 @@ tips: 矿工费: 因为所有的虚拟货币要记录在链上, 所以每笔链�
 
  那么如何只使用15美元呢, 请继续往下看
 
-## 利用虚拟币的暴涨暴跌
+## 利用虚拟币的涨跌
 
 - e站对与虚拟货币的计价方式, 并不是实时的价格, 而是以过去一段时间的平均值进行计算的, 而虚拟货币交易所, 是以实时的价格来计算的, 虚拟货币有一个特点, 就是经常暴涨暴跌, 我们就是要利用虚拟货币的暴涨暴跌, 来降低我们的成本
 
