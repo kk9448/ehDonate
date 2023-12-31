@@ -42,7 +42,16 @@ eh有一部分内容(里区), 仅针对部分用户开放
 https://t.me/carbon_research
 
 
-# 2.如何购买加密货币
+# 2.获取自己e站账户的捐赠地址
+
+进入e站, My Home → Donation → Bitcoin Cash 
+
+左边可以看到一串字母
+
+![pictur/screenshot_3518.jpg](picture/screenshot_3518.jpg)
+
+
+# 2.如何购买数字货币
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙)
 
