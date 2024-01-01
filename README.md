@@ -70,10 +70,12 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 领取3/12usdt专属福利[这样捐赠成本最低70RMB]
 
-先注册账号(需要翻墙)
+注册链接(需要翻墙)
+
 [https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
-免翻墙注册链接
+注册链接(免翻墙)
+
 [https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44)
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
