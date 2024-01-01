@@ -91,8 +91,21 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
 
-输入要购买的金额150, 得到美元稳定币USDT
-![picture/网页版首页.jpg](picture/网页版首页.jpg)
+输入要购买的金额150, 选择CNY, 点击购买, 之后跟着平台提示进行操作即可
+![picture/快捷区购买usdt.jpeg](picture/快捷区购买usdt.jpeg)
+
+购买完成后, usdt会出现在我们的资金账户中
+
+![picture/进入资金账户.jpeg](picture/进入资金账户.jpeg)
+
+进入资金账户后, 点击划转
+![picture/从资金账户划转到现货账户.jpeg](picture/从资金账户划转到现货账户.jpeg)
+
+选择从资金账户划转到现货账户, 输入数量,点击确认
+
+![picture/划转usdt.jpeg](picture/划转usdt.jpeg)
+
+
 
 首页中选择最上方的搜索框, 输入bch
 
