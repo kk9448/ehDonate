@@ -110,13 +110,14 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 ![picture/现货交易.jpeg](picture/现货交易.jpeg)
 
 
-首页中选择最上方的搜索框, 输入bch
+首页中选择最上方的搜索框, 输入bch, 选择bch/usdt交易对
 
-![picture/输入bch.jpeg](picture/输入bch.jpeg)
+![picture/输入bch电脑版.jpeg](picture/输入bch电脑版.jpeg)
 
-选择bch/usdt交易对
 
-![选择bch_usdt交易对.jpeg](picture/选择bch_usdt交易对.jpeg)
+选择市价, 输入20, 点击买入bch
+
+![输入20点击确定电脑版.jpeg](picture/输入20点击确定电脑版.jpeg)
 
 
 点击买入
