@@ -105,6 +105,9 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 ![picture/划转usdt.jpeg](picture/划转usdt.jpeg)
 
+选择交易,现货交易
+
+![picture/现货交易.jpeg](picture/现货交易.jpeg)
 
 
 首页中选择最上方的搜索框, 输入bch
