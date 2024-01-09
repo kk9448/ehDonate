@@ -118,9 +118,9 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 ![输入20点击确定电脑版.jpeg](picture/输入20点击确定电脑版.jpeg)
 
 
-点击买入
+回到现货账户, 点击提现
 
-![picture/点击买入.jpeg](picture/点击买入.jpeg)
+![picture/提现bch1.jpeg](picture/提现bch1.jpeg)
 
 输入20,选择市单价,点击确定
 
