@@ -7,7 +7,7 @@
 
 *  [eh搜索规则](https://github.com/kk9448/ehDonate/blob/main/eh搜索规则.md)
 
-*  [509解决方案](https://github.com/kk9448/ehDonate/blob/main/509解决方案.md)
+*  [509解决方案](https://github.com/kk9448/ehDonate/blob/main/ban以及509解决方案.md)
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
