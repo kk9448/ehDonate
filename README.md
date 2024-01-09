@@ -122,11 +122,13 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 ![picture/提现bch1.jpeg](picture/提现bch1.jpeg)
 
-输入20,选择市单价,点击确定
+选择bch, 把开头获得的地址粘贴进去, 转账网络选择bch, 点击全部
 
-![picture/输入20.jpeg](picture/输入20.jpeg)
+需要注意的是,我们要保证减去手续费后, 大于下图中篮框里的值
 
+![picture/提现bch2.jpeg](picture/提现bch2.jpeg)
 
+![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
 
 ## 手机版
 
