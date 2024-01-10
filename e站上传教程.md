@@ -4,7 +4,7 @@
 如图所示, 选择 My Uploads -> Create New Gallery
 
 
-![screenshot_3561.jpg][2]
+![my upload_create gallery.jpeg][2]
 
 main title 填写画廊显示名称, 不用非要填英文
 Japanese Script Title 画廊的日文名称,可以不填写.
@@ -40,6 +40,6 @@ Misc : 一般都是3D的作品
 没有动漫相关人物出现, 这种会被算为real porn, 被删除
 3. 重复, 不完整的画廊也会被删除
 
-  [1]: http://sinner.ehentai.life/usr/uploads/2022/11/509347047.jpg
-  [2]: http://sinner.ehentai.life/usr/uploads/2022/11/2459022882.jpg
-  [3]: http://sinner.ehentai.life/usr/uploads/2022/11/1874080349.png
+  [1]: http://sinner.ehentai.info/usr/uploads/2022/11/509347047.jpg
+  [2]: http://sinner.ehentai.info/usr/uploads/2022/11/2459022882.jpg
+  [3]: http://sinner.ehentai.info/usr/uploads/2022/11/1874080349.png
