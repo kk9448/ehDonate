@@ -66,7 +66,9 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 (推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 
 
-使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取3/12usdt专属福利[这样捐赠成本最低70RMB]
+使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 
+
+领取3/12usdt专属福利[这样捐赠成本最低70RMB]
 
 注册链接(需要翻墙)
 
@@ -83,6 +85,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 ## 网页版 [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
 
 切换语言为简体中文
+
 ![切换语言.jpeg](picture/切换语言.jpeg)
 
 左上角,选择一键买币
@@ -90,6 +93,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 然后就可以使用银行卡, 支付宝和微信购买USDT啦
 
 输入要购买的金额150, 选择CNY, 点击购买, 之后跟着平台提示进行操作即可
+
 ![picture/快捷区购买usdt.jpeg](picture/快捷区购买usdt.jpeg)
 
 购买完成后, usdt会出现在我们的资金账户中
@@ -97,6 +101,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 ![picture/进入资金账户.jpeg](picture/进入资金账户.jpeg)
 
 进入资金账户后, 点击划转
+
 ![picture/从资金账户划转到现货账户.jpeg](picture/从资金账户划转到现货账户.jpeg)
 
 选择从资金账户划转到现货账户, 输入数量,点击确认
@@ -153,26 +158,33 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 
 选择bch/usdt交易对
+
 ![picture/选择bch_usdt交易对.jpeg](picture/选择bch_usdt交易对.jpeg)
 
 点击买入
+
 ![picture/点击买入.jpeg](picture/点击买入.jpeg)
 
 选择市单价, 输入20,点击买入bch
+
 ![picture/输入20.jpeg](picture/输入20.jpeg)
 
 
 之后在资金, 现货选项卡中, 点击bch
+
 ![picture/点击bch.jpeg](picture/点击bch.jpeg)
 
 选择提现
+
 ![picture/选择提现.jpeg](picture/选择提现.jpeg)
 
 选择通过区块链转账
+
 ![picture/选择通过区块链转账.jpeg](picture/选择通过区块链转账.jpeg)
 
 提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch
 输入提现的数量
+
 ![picture/选择bch网络.jpeg](picture/选择bch网络.jpeg)
 
 
