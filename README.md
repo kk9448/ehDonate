@@ -68,7 +68,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 
 
-领取3/12usdt专属福利[这样捐赠成本最低70RMB]
+领取5/12usdt专属福利[这样捐赠成本最低70RMB]
 
 注册链接(需要翻墙)
 
