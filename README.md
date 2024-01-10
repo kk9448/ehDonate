@@ -82,7 +82,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 注册账户, 完成身份认证后, 就可以购买USDT了
 
-## 网页版 [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
+## 网页版教程
 
 切换语言为简体中文
 
