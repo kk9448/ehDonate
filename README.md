@@ -137,7 +137,13 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 ## 手机版
 
-在google play搜索binance既可以下载
+首先在应用商店中下载币安
+
+[安卓手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/安卓手机下载币安App指南.md)
+
+[苹果手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/苹果手机下载币安APP指南.md)
+
+
 
 注册时可以使用我的[邀请码 R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
 
