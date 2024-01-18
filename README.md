@@ -70,7 +70,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 领取5/12usdt专属福利[这样捐赠成本最低70RMB]
 
- 注册链接(需要翻墙)
+注册链接(需要翻墙)
 
 [https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
@@ -163,7 +163,10 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 首页中选择最上方的搜索框, 输入bch
 
-![picture/输入bch.jpeg](picture/输入bch.jpeg)
+![输入bch](picture/输入bch.jpeg)
+
+
+
 
 
 选择bch/usdt交易对
