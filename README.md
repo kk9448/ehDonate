@@ -182,7 +182,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 ![picture/输入20.jpeg](picture/输入20.jpeg)
 
 
-之后在现货选项卡中, 点击bch
+之后在底部选择资金, 在上方选择现货选项卡, 点击bch
 
 ![picture/点击bch.jpeg](picture/点击bch.jpeg)
 
