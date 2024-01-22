@@ -68,7 +68,8 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 限前1000名用户,赠送600ALT代币,目前已经注册660名(到24年1月22日晚8点)
 
-#### 1.必须是活动期间（2024年01月19日08:00至2024年01月24日08:00「UTC+8」）通过我的[邀请码](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)注册的新用户，在这之前或者之后注册的一律不算～
+#### 1.必须是活动期间（2024年01月19日08:00至2024年01月24日08:00「UTC+8）
+通过我的[邀请码](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)注册的新用户，在这之前或者之后注册的一律不算～
 
 #### 2.必须注册后完成现货杠杆合约任意一笔交易，然后填写表单
 http://binanceactivity.mikecrm.com/fojRVGe
