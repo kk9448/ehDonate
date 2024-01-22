@@ -71,7 +71,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 #### 1.必须是活动期间（2024年01月19日08:00至2024年01月24日08:00「UTC+8）
 通过我的[邀请码](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)注册的新用户，在这之前或者之后注册的一律不算～
 
-#### 2.必须注册后完成现货杠杆合约任意一笔交易，然后填写表单
+#### 2.必须注册后完成现货杠杆合约任意一笔交易(任意金额)，然后填写表单
 http://binanceactivity.mikecrm.com/fojRVGe
 
 活动结束2周内, 币安将会对这些用户空投600枚ALT代币
