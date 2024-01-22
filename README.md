@@ -76,7 +76,7 @@ http://binanceactivity.mikecrm.com/fojRVGe
 
 活动结束2周内, 币安将会对这些用户空投600枚ALT代币
 
-之前没有使用邀请链接的用户, 可以找客服先注销账户, 再使用邀请链接注册, 已经使用邀请链接的用户不在范围之内
+#### 之前没有使用邀请链接的用户, 可以找客服先注销账户, 再使用邀请链接注册, 已经使用邀请链接的用户不在范围之内
 
 (推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 
 
@@ -151,6 +151,8 @@ http://binanceactivity.mikecrm.com/fojRVGe
 ![picture/提现bch2.jpeg](picture/提现bch2.jpeg)
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
+
+到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
 
 ## 手机版
 
