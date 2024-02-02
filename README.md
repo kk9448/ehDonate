@@ -58,9 +58,9 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙)
 
-
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (千分之一的手续费, 操作界面友好, 邀请码 [R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44))
 
+合约永久返现(无一年限制),币安最高规格, 大户节假日礼品, 大交易量用户请加wx BnFeeReturn, 领取奖励请telegram 私聊@carbon_x 
 
 首先, 在币安注册账户, 使用我的邀请链接, 可以获得最高级手续费返现
 
