@@ -58,12 +58,10 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙)
 
-2024年2月迎新活动
+**2024年2月迎新活动**
 
 币安新用户注册送大约60 USDT代币
-
 ✅时间：2024年02月14日08:00至2024年02月18日08:00（北京时间）
-
 活动：通过我的[邀请](https://www.suitechsui.io/zh-CN/join?ref=T9WB4BF1)链接注册币安账户，完成一笔交易(使用usdt购买其他任意一种其他代币, 注意不能使用闪兑)，每人可获得200Pixel奖励（大约60💛 USDT），相当于免费送银星还多一点
 
 注意：直接注册或通过不合格邀请链接注册，将不会获得奖励
