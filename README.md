@@ -82,11 +82,9 @@ PIXEL奖励将于2024年02月19日18:00（东八区时间）前直接分配到�
 首先, 在币安注册账户, 使用我的邀请链接, 可以获得最高级手续费返现(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本最低70RMB]
 
 注册链接(需要翻墙)
-
 [https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 注册链接(免翻墙)
-
 [https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44)
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
