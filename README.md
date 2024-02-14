@@ -58,7 +58,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙)
 
-*2024年2月迎新活动*
+## 2024年2月迎新活动
 
 币安新用户注册送大约60 USDT代币
 ✅时间：2024年02月14日08:00至2024年02月18日08:00（北京时间）
