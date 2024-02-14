@@ -69,6 +69,9 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 PIXEL奖励将于2024年02月19日18:00（东八区时间）前直接分配到中奖用户的现货钱包，获奖用户可以通过 帐户 > 钱包 > 分发 来查看奖励；
 
 
+-------
+
+
 1. [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (千分之一的手续费, 操作界面友好, 邀请码 [R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44))
 
 合约永久返现(无一年限制),币安最高规格, 大户节假日礼品, 大交易量用户请加wx BnFeeReturn, 领取奖励请telegram 私聊@carbon_x 
