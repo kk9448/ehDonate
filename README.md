@@ -70,6 +70,8 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 PIXEL奖励将于2024年02月19日18:00（东八区时间）前直接分配到中奖用户的现货钱包，获奖用户可以通过 帐户 > 钱包 > 分发 来查看奖励；
 
+想了解pixel相关信息, 请参阅
+[PIXEL研究报告](http://sinner.ehentai.info/index.php/archives/277/)
 
 -------
 
