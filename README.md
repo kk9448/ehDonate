@@ -6,7 +6,7 @@
 
 前1200名新注册并交易用户将共同瓜分60,000 PORTAL；活动有效期内成功注册并交易的第1200名以后用户，共同瓜分40,000 PORTAL！
 
-活动：活动期间通过我的[邀请](https://www.suitechsui.io/zh-CN/join?ref=R1SE0A44) 链接注册币安账户，完成一笔交易(使用USDT购买其他任意一种其他代币, 注意不能使用闪兑)，按照[捐赠教程](https://github.com/kk9448/ehDonate) 购买一笔bch, 即可获得空投, 有问题请联系 @carbon_x, 或加入群组讨论
+活动：活动期间通过我的[邀请](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44) 链接注册币安账户，完成一笔交易(使用USDT购买其他任意一种其他代币, 注意不能使用闪兑)，按照[捐赠教程](https://github.com/kk9448/ehDonate) 购买一笔bch, 即可获得空投, 有问题请联系 @carbon_x, 或加入群组讨论
 https://t.me/carbon_research
 
 注意：直接注册或通过不合格邀请链接注册，将不会获得奖励
@@ -83,7 +83,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 [https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 注册链接(免翻墙)
-[https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44)
+[https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
 
