@@ -1,16 +1,5 @@
 # eh捐赠教程
 
-免费获得金星活动, 币安新用户注册送大约价值150 USDT的Protal代币
-
-✅时间：活动期限：2.24 08:00- 2.28 08:00（北京时间）
-
-前1200名新注册并交易用户将共同瓜分60,000 PORTAL；活动有效期内成功注册并交易的第1200名以后用户，共同瓜分40,000 PORTAL！
-
-活动：活动期间通过我的[邀请](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44) 链接注册币安账户，完成一笔交易(使用USDT购买其他任意一种其他代币, 注意不能使用闪兑)，按照[捐赠教程](https://github.com/kk9448/ehDonate) 购买一笔bch, 即可获得空投, 有问题请联系 @carbon_x, 或加入群组讨论
-https://t.me/carbon_research
-
-注意：直接注册或通过不合格邀请链接注册，将不会获得奖励
-
 e站表站: https://e-hentai.org/ </br>
 e站里站: https://exhentai.org/ </br>
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
