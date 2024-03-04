@@ -68,7 +68,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 [https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 注册链接(免翻墙)
-[https://accounts.suitechsui.in/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
+[https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
 
