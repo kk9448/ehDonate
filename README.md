@@ -59,7 +59,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙,推荐台湾ip，不能使用美国ip)
 
-1. [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (千分之一的手续费, 操作界面友好）
+[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (世界第一大所，各方面都是No.1, 安全保证）
 
 
 使用我的邀请链接, 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例手续费返现，不使用净亏**(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本低至70RMB]
