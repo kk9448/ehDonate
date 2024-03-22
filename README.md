@@ -57,18 +57,17 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 # 3.如何购买数字货币
 
 
-**个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙)
+**个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙,推荐台湾ip)
 
-1. [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (千分之一的手续费, 操作界面友好, 邀请码R1SE0A44
+1. [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (千分之一的手续费, 操作界面友好）
 
 
-首先, 在币安注册账户, 使用我的邀请链接, 可以获得永久最高手续费返现(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本最低70RMB]
+首先, 在币安注册账户, 使用我的邀请链接, 或者手动填写邀请码邀请码 R1SE0A44，可以免费获得5 USDT以及永久最高比例手续费返现，不使用净亏(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务), 使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本最低70RMB]
 
-注册链接(需要翻墙)
-[https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
+[注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)(需要翻墙，推荐台湾ip，不要使用美国ip)
 
-注册链接(免翻墙)
-[https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
+[注册链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)(免翻墙，大陆直连)
+
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
 
