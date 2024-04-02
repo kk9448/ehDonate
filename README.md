@@ -1,14 +1,5 @@
 # eh捐赠教程
 
-免费获得铜星活动
-
-完成首次合约交易,送价值大约20USDT的ENA代币
-
-活动时间： 2024年04月01日16:00至2024年04月08日07:59
-活动教程如下
-
-https://crypto0xpanda.notion.site/700-000-ENA-ab3322593fee463a95286ec01446e28f?pvs=4
-
 e站表站: https://e-hentai.org/ </br>
 e站里站: https://exhentai.org/ </br>
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
@@ -73,6 +64,14 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (世界第一大所，各方面都是No.1, 安全保证）
 
+免费获得铜星活动
+
+完成首次合约交易,送价值大约20USDT的ENA代币
+
+活动时间： 2024年04月01日16:00至2024年04月08日07:59
+活动教程如下
+
+https://crypto0xpanda.notion.site/700-000-ENA-ab3322593fee463a95286ec01446e28f?pvs=4
 
 使用我的邀请链接, 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，不使用净亏(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本低至70RMB]
 
