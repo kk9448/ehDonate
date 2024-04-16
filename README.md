@@ -6,13 +6,6 @@ e站里站: https://exhentai.org/ </br>
 
 [视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)
 
-### 币安新注册用户免费获得银星活动
-活动时间：2024年4月13日 08:00 至2024年4月16日 07:59（东八区时间）
-
-之前没有币安账户的，可以参加下，最少免费获得20USDT，相当于免费的铜星
-
-详情请见
-[币安新用户活动教程](https://crypto0xpanda.notion.site/OMNI-5de45f5bd03e4804a381148ccaf56025?pvs=4)
 不明白的地方可以tg群里提问
 https://t.me/carbon_research
 
