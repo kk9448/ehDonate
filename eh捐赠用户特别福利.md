@@ -20,7 +20,9 @@
 
 相对于非捐赠用户, 捐赠用户有一些额外福利
 先上wiki图
-![](picture/Donate_details.jpg)
+
+![Donate_Bonus](media/Donate_Bonus.png)
+
 主要有4种级别铜星,银星, 金星, 和猫娘
 
 个人建议
