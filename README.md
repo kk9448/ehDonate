@@ -45,7 +45,9 @@ https://t.me/carbon_research
 
 进入e站, My Home → Donation → Bitcoin Cash  
 左边可以看到一串字母  
-qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq  
+
+qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq 
+
 这就是我们的bch钱包地址, 我们之后要用
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
@@ -55,9 +57,8 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 **个人推荐[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所**(需要翻墙,推荐台湾ip，不能使用美国ip)
 
-[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (世界第一大所，各方面都是No.1, 安全保证）
-
 限时免费获得E站铜星活动  
+
 ✅活动时间：2024年5月8日 08:00 至 2024年5月12日 07:59（北京时间） 
 活动期间新注册币安的用户，赠送价值20美元的代币：交易量排名前2000名币安新注册用户每人可获得20枚BB奖励（估计价值20美元），交易量排名前2000名之后的用户，将共同瓜分30,000 BB！，无论排名如何，如果此次赠送的代币价值小于20USDT，我个人补齐到20USDT，保证至少是铜星，私聊 @carbon_x 即可  
 
