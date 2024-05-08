@@ -34,9 +34,11 @@ https://t.me/carbon_research
 
 eh有一部分内容(里区), 仅针对部分用户开放
 
-**捐赠**: 可以立刻解锁里站权限(表站看里站内容), 立刻浏览全部eh内容  
-**不捐赠**: 新注册之后, 没有里区权限,如果想获得里区权限,需要使用欧美ip注册, 等待大约2周,有一定机率可以进入里区, 比较拼人品, 详情可以见另一篇文章.  
+**捐赠**: 可以立刻解锁里站权限(表站看里站内容), 立刻浏览全部eh内容，表站的速度个人感觉也比里站快
+**不捐赠**: 新注册之后, 没有里区权限,如果想获得里区权限,需要使用原生欧美ip注册, 等待大约2周,有一定机率可以进入里区, 比较拼人品  
 
+详情请见  
+[e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)  
 有疑问的话, 欢迎加入群组讨论
 https://t.me/carbon_research
 
@@ -45,7 +47,7 @@ https://t.me/carbon_research
 进入e站, My Home → Donation → Bitcoin Cash  
 左边可以看到一串字母  
 
-qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq 
+**qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq** 
 
 这就是我们的bch钱包地址, 我们之后要用
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
@@ -55,7 +57,7 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 
 **个人推荐**  
-[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),**世界最大的数字货币交易所**(需要翻墙,推荐台湾ip，不能使用美国ip)
+[币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所(需要翻墙,推荐台湾ip，不能使用美国ip)
 
 使用我的[邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本低至70RMB]
 
