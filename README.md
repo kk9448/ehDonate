@@ -78,12 +78,10 @@ qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
 
 使用我的邀请链接, 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本低至70RMB]
 
-注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)
-
+注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)  
 https://www.binance.com/zh-CN/join?ref=R1SE0A44
 
-注册链接(免翻墙，大陆直连)
-
+注册链接(免翻墙，大陆直连)  
 https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
