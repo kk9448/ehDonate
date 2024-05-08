@@ -7,8 +7,7 @@ e站里站: https://exhentai.org/ </br>
 [视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)
 
 不明白的地方可以tg群里提问
-https://t.me/carbon_research
-
+https://t.me/carbon_research  
 实在嫌麻烦的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB)
 详情请见</br>
 
@@ -77,8 +76,7 @@ https://www.binance.com/zh-CN/join?ref=R1SE0A44
 注册链接(免翻墙，大陆直连)  
 https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
-所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的
-
+所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的  
 注册账户, 完成身份认证后, 就可以购买USDT了
 
 ## 网页版教程
@@ -92,8 +90,7 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 ![选择一键买币](media/%E9%80%89%E6%8B%A9%E4%B8%80%E9%94%AE%E4%B9%B0%E5%B8%81.jpeg)
 
 
-然后就可以使用银行卡, 支付宝和微信购买USDT啦
-
+然后就可以使用银行卡, 支付宝和微信购买USDT啦  
 输入要购买的金额150, 选择CNY, 点击购买, 之后跟着平台提示进行操作即可
 
 ![picture/快捷区购买usdt.jpeg](picture/快捷区购买usdt.jpeg)
@@ -129,8 +126,7 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 ![picture/提现bch1.jpeg](picture/提现bch1.jpeg)
 
-选择bch, 把开头获得的地址粘贴进去, 转账网络选择bch, 点击全部
-
+选择bch, 把开头获得的地址粘贴进去, 转账网络选择bch, 点击全部  
 需要注意的是,我们要保证减去手续费后, 大于下图中篮框里的值
 
 ![picture/提现bch2.jpeg](picture/提现bch2.jpeg)
@@ -141,23 +137,18 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 ## 手机版
 
-首先在应用商店中下载币安
-
-[安卓手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/安卓手机下载币安App指南.md)
-
+首先在应用商店中下载币安  
+[安卓手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/安卓手机下载币安App指南.md)  
 [苹果手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/苹果手机下载币安APP指南.md)
 
+注册时可以使用我的 **R1SE0A44** [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
 
-
-注册时可以使用我的[邀请码 R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
-
-注册账户后
-
+注册账户后  
 交易选项卡中, 选择c2c
 
-![picture/手机交易选项卡C2C.jpeg](picture/手机交易选项卡C2C.jpeg)}
+![picture/手机交易选项卡C2C.jpeg](picture/手机交易选项卡C2C.jpeg)
 
-就可以使用银行卡,微信,支付宝,购买usdt了
+就可以使用银行卡,微信,支付宝,购买usdt了  
 选择快捷区, 输入150
 
 ![picture/购买usdt.jpeg](picture/购买usdt.jpeg)
@@ -165,10 +156,6 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 首页中选择最上方的搜索框, 输入bch
 
 ![输入bch](picture/输入bch.jpeg)
-
-
-
-
 
 选择bch/usdt交易对
 
@@ -195,19 +182,18 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 ![picture/选择通过区块链转账.jpeg](picture/选择通过区块链转账.jpeg)
 
-提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch
+提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch  
 输入提现的数量
 
 ![picture/选择bch网络.jpeg](picture/选择bch网络.jpeg)
 
 
-然后进入e站, My Home → Donation → Bitcoin Cash 
-
+然后进入e站, My Home → Donation → Bitcoin Cash     
 复制我们第一步得到的地址, 粘贴到币安的提现地址, 提现
 
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
-在框里输入20, 蓝色方块里显示的就是你最少需要的bch数量,
+在框里输入20, 蓝色方块里显示的就是你最少需要的bch数量,  
 在提现时, 扣去手续费后, 最小的数量为蓝色方块里的数量
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
