@@ -36,20 +36,16 @@ https://t.me/carbon_research
 eh有一部分内容(里区), 仅针对部分用户开放
 
 **捐赠**: 可以立刻解锁里站权限(表站看里站内容), 立刻浏览全部eh内容  
-**不捐赠**: 新注册之后, 没有里区权限,如果想获得里区权限,需要使用欧美ip注册, 等待大约2周,    
+**不捐赠**: 新注册之后, 没有里区权限,如果想获得里区权限,需要使用欧美ip注册, 等待大约2周,有一定机率可以进入里区, 比较拼人品, 详情可以见另一篇文章.  
 
-有一定机率可以进入里区, 比较拼人品, 详情可以见另一篇文章.  
 有疑问的话, 欢迎加入群组讨论
 https://t.me/carbon_research
 
 # 2.获取自己e站账户的捐赠地址
 
-进入e站, My Home → Donation → Bitcoin Cash 
-
-左边可以看到一串字母
-
-qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
-
+进入e站, My Home → Donation → Bitcoin Cash  
+左边可以看到一串字母  
+qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq  
 这就是我们的bch钱包地址, 我们之后要用
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
