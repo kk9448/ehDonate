@@ -149,7 +149,7 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 注册账户后  
 交易选项卡中, 选择c2c
 
-![picture/手机交易选项卡C2C.jpeg](picture/手机交易选项卡C2C.jpeg)
+![picture/手机交易选项卡C2C.jpeg](picture/手机交易选项卡C2C.jpeg width = “30%”)
 
 就可以使用银行卡,微信,支付宝,购买usdt了  
 选择快捷区, 输入150
