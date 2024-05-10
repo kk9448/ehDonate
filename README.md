@@ -166,30 +166,27 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 点击买入
 
-![picture/点击买入.jpeg](picture/点击买入.jpeg)
+<img src="picture/点击买入.jpeg" width="300px">
 
 选择市单价, 输入20,点击买入bch
 
-![picture/输入20.jpeg](picture/输入20.jpeg)
-
+<img src="picture/输入20.jpeg" width="300px">
 
 之后在底部选择资金, 在上方选择现货选项卡, 点击bch
 
-![picture/点击bch.jpeg](picture/点击bch.jpeg)
+<img src="picture/点击bch.jpeg" width="300px">
 
 选择提现
 
-![picture/选择提现.jpeg](picture/选择提现.jpeg)
+<img src="picture/选择提现.jpeg" width="300px">
 
 选择通过区块链转账
 
-![picture/选择通过区块链转账.jpeg](picture/选择通过区块链转账.jpeg)
+<img src="picture/选择通过区块链转账.jpeg" width="300px">
 
-提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch  
-输入提现的数量
+提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch,输入提现的数量
 
-![picture/选择bch网络.jpeg](picture/选择bch网络.jpeg)
-
+<img src="picture/选择bch网络.jpeg" width="300px">
 
 然后进入e站, My Home → Donation → Bitcoin Cash     
 复制我们第一步得到的地址, 粘贴到币安的提现地址, 提现
