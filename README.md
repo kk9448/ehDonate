@@ -148,45 +148,45 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 注册账户后,交易选项卡中, 选择c2c
 
-<img src="picture/手机交易选项卡C2C.jpeg" width="300px">
+<img src="picture/手机交易选项卡C2C.jpeg" width="333px">
 
 就可以使用银行卡,微信,支付宝,购买usdt了  
 选择快捷区, 输入150
 
-<img src="picture/购买usdt.jpeg" width="300px">
+<img src="picture/购买usdt.jpeg" width="333px">
 
 
 首页中选择最上方的搜索框, 输入bch
 
-<img src="picture/输入bch.jpeg" width="300px">
+<img src="picture/输入bch.jpeg" width="333px">
 
 选择bch/usdt交易对
 
-<img src="picture/选择bch_usdt交易对.jpeg" width="300px">
+<img src="picture/选择bch_usdt交易对.jpeg" width="333px">
 
 点击买入
 
-<img src="picture/点击买入.jpeg" width="300px">
+<img src="picture/点击买入.jpeg" width="333px">
 
 选择市单价, 输入20,点击买入bch
 
-<img src="picture/输入20.jpeg" width="300px">
+<img src="picture/输入20.jpeg" width="333px">
 
 之后在底部选择资金, 在上方选择现货选项卡, 点击bch
 
-<img src="picture/点击bch.jpeg" width="300px">
+<img src="picture/点击bch.jpeg" width="333px">
 
 选择提现
 
-<img src="picture/选择提现.jpeg" width="300px">
+<img src="picture/选择提现.jpeg" width="333px">
 
 选择通过区块链转账
 
-<img src="picture/选择通过区块链转账.jpeg" width="300px">
+<img src="picture/选择通过区块链转账.jpeg" width="333px">
 
 提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch,输入提现的数量
 
-<img src="picture/选择bch网络.jpeg" width="300px">
+<img src="picture/选择bch网络.jpeg" width="333px">
 
 然后进入e站, My Home → Donation → Bitcoin Cash     
 复制我们第一步得到的地址, 粘贴到币安的提现地址, 提现
