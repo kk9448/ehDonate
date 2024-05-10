@@ -146,15 +146,15 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 注册时可以使用我的 **R1SE0A44** [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
 
-注册账户后  
-交易选项卡中, 选择c2c
+注册账户后,交易选项卡中, 选择c2c
 
-<img src="picture/手机交易选项卡C2C.jpeg" width="300px">
+<img src="picture/手机交易选项卡C2C.jpeg" width="330px">
 
 就可以使用银行卡,微信,支付宝,购买usdt了  
 选择快捷区, 输入150
 
-![picture/购买usdt.jpeg](picture/购买usdt.jpeg)
+<img src="picture/购买usdt.jpeg" width="330px">
+
 
 首页中选择最上方的搜索框, 输入bch
 
