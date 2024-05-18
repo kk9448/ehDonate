@@ -59,7 +59,7 @@ https://t.me/carbon_research
 **个人推荐**  
 [币安](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44),世界最大的数字货币交易所(需要翻墙,推荐台湾ip，不能使用美国ip)
 
-使用我的[邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram 私聊 @carbon_x 领取5/12usdt专属福利[这样捐赠成本低至70RMB]
+使用我的[邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram **私聊 @carbon_x 领取5专属福利**[这样捐赠成本为115 RMB]
 
 有问题请tg联系 @carbon_x, 或加入群组讨论  https://t.me/carbon_research  
 
