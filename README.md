@@ -137,7 +137,11 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 注册时可以使用我的邀请码 **R1SE0A44** 或者 [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44)
 
-注册账户后,交易选项卡中, 选择c2c
+注册账户后,左上角进入账户管理, 下方切换为专业版
+
+<img src="picture/专业版.jpeg" width="333px">
+
+交易选项卡中, 选择c2c
 
 <img src="picture/手机交易选项卡C2C.jpeg" width="333px">
 
