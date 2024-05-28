@@ -73,7 +73,7 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的  
 注册账户, 完成身份认证后, 就可以购买USDT了
 
-## 网页版教程
+## 网页版教程(手机版在后边)
 
 切换语言为简体中文
 
