@@ -73,8 +73,6 @@ https://www.binance.com/zh-CN/join?ref=R1SE0A44
 币安注册链接(免翻墙，大陆直连)  
 https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
-所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的  
-注册账户, 完成身份认证后, 就可以购买USDT了
 
 ## 网页版教程(手机版在后边)
 
@@ -86,8 +84,10 @@ https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 ![选择一键买币](media/%E9%80%89%E6%8B%A9%E4%B8%80%E9%94%AE%E4%B9%B0%E5%B8%81.jpeg)
 
+所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的  
+注册账户, 完成身份认证后, 就可以购买USDT了
 
-然后就可以使用银行卡, 支付宝和微信购买USDT啦  
+完成身份认证后就可以使用银行卡, 支付宝和微信购买USDT啦  
 输入要购买的金额150, 选择CNY, 点击购买, 之后跟着平台提示进行操作即可
 
 ![picture/快捷区购买usdt.jpeg](picture/快捷区购买usdt.jpeg)
