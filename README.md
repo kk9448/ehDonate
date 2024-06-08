@@ -67,7 +67,7 @@ https://t.me/carbon_research
 
 详情见下方
 
-注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)
+注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)  
 https://www.binance.com/zh-CN/join?ref=R1SE0A44  
 注册链接(免翻墙，大陆直连)  
 https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
