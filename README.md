@@ -65,11 +65,12 @@ https://t.me/carbon_research
 
 ⏰活动时间： 2024/06/09 08:00:00 - 2024/06/10 08:00:00 （北京时间）
 
-详情见下方
+详情请见
+[币安新手任务教程](https://crypto0xpanda.notion.site/E-82b4f004f4a5438cae2ba334bbb0d0b8?pvs=4)
 
-注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)  
+币安注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)  
 https://www.binance.com/zh-CN/join?ref=R1SE0A44  
-注册链接(免翻墙，大陆直连)  
+币安注册链接(免翻墙，大陆直连)  
 https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的  
