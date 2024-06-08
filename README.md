@@ -65,7 +65,7 @@ https://t.me/carbon_research
 
 ⏰活动时间： 2024/06/09 08:00:00 - 2024/06/10 08:00:00 （北京时间）
 
-详情请见
+详情请见  
 [币安新手任务教程](https://crypto0xpanda.notion.site/E-82b4f004f4a5438cae2ba334bbb0d0b8?pvs=4)
 
 币安注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)  
