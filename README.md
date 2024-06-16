@@ -69,9 +69,9 @@ https://t.me/carbon_research
 [币安新手任务教程](https://crypto0xpanda.notion.site/E-7ef04861597f4e9793da82b31a9773fa?pvs=4)
 
 币安注册链接(需要翻墙，推荐台湾ip，不要使用美国ip)  
-https://www.binance.com/zh-CN/join?ref=R1SE0A44  
+[翻墙注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  
 币安注册链接(免翻墙，大陆直连)  
-https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44
+[免翻墙注册链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)  
 
 
 ## 网页版教程(手机版在后边)
