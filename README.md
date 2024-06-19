@@ -57,7 +57,7 @@ https://t.me/carbon_research
 
 
 **个人推荐**  
-[币安](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44),推荐币安，全球最大，全球各国政府牌照 拿的最多，资金安全有保障(注意: 不能使用美国ip访问, 币安不对美国提供服务)
+[币安](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)，全球最大，全球各国政府牌照 拿的最多，资金安全有保障(注意: 不能使用美国ip访问, 币安不对美国提供服务)
 
 使用我的[邀请链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram **私聊 @carbon_x 领取5专属福利**[这样捐赠成本为115 RMB]
 
