@@ -62,10 +62,10 @@ https://t.me/carbon_research
 使用我的[邀请链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram **私聊 @carbon_x 领取5专属福利**[这样捐赠成本为115 RMB]
 
 币安注册链接(需要翻墙，不要使用美国ip)  
-[注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)(需要翻墙)  
+[注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 币安注册链接(免翻墙，大陆直连)  
-[注册链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)(直连,免翻墙)  
+[注册链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
 
 ## 网页版教程(手机版在后边)
 
