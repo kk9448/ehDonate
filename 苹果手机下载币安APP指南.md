@@ -16,12 +16,9 @@
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
-币安App在中国大陆区App Store并不提供下载
-
-如果想要下载币安App, 需要切换国家和地区至香港或者阿联酋
-
-下面以香港为例(目前香港已经不行, 选择地区时选择台湾)
-
+币安App在中国大陆区App Store并不提供下载  
+如果想要下载币安App, 需要切换国家和地区至香港或者阿联酋  
+下面以香港为例(目前香港已经不行, 选择地区时选择台湾)  
 首先进入App Store首页, 点击右边的头像
 
 ![App_Store首页](media/App_Store%E9%A6%96%E9%A1%B5-1.jpeg)
