@@ -30,22 +30,14 @@ Japanese Script Title 画廊的日文名称,可以不填写.
 下面解释一下分类
 
 
-Doujinshi : 一般那种几十页的同人
-
-Manga : 100页以上的那种同人的合集, 作者可以说同一个人, 也可以是很多作者的合集
-
-Artist CG : 类似pixiv上成剧情的套图, 一般都在10张图以上
-
-Game CG : 游戏CG
-
-Western : 欧美画风的二次元, 比如彩虹小马那种
-
-Non-H : 不包含R18内容
-
-Image Set : 类似pixiv上散图的合集
-
-Cosplay : Cosplay
-
+Doujinshi : 一般那种几十页的同人  
+Manga : 100页以上的那种同人的合集, 作者可以说同一个人, 也可以是很多作者的合集  
+Artist CG : 类似pixiv上成剧情的套图, 一般都在10张图以上  
+Game CG : 游戏CG  
+Western : 欧美画风的二次元, 比如彩虹小马那种  
+Non-H : 不包含R18内容  
+Image Set : 类似pixiv上散图的合集  
+Cosplay : Cosplay  
 Misc : 一般都是3D的作品
 
 (private/unlisted) : 隐私画廊, 只有通过链接才可以进行访问, 上传者如果不分享该链接, 那么只有上传者自己可以看见, 就算上违法版权内容的画廊, 依然可以上传到private, 因为其他人看不见, 不会被投票删除

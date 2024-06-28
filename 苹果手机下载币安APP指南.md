@@ -16,10 +16,8 @@
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
-币安App在中国大陆区App Store并不提供下载  
-如果想要下载币安App, 需要切换国家和地区至香港或者阿联酋  
-下面以香港为例(目前香港已经不行, 选择地区时选择台湾)  
-首先进入App Store首页, 点击右边的头像
+由于中国大陆的苹果应用商店没有上架币安APP，所以需要使用海 外Apple ID，获取方式： 1. 自己注册一个新的海外Apple ID，下面有教程 2. 不会注册的人，也在淘宝上搜索“苹果i”买一个海外账号 （美国Apple ID不可以，推荐台湾地区Apple ID） 有了海外账号之后就可以准备安装了，详见“登陆新Apple ID下载”  
+
 
 ![App_Store首页](media/App_Store%E9%A6%96%E9%A1%B5-1.jpeg)
 
