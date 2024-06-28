@@ -12,15 +12,15 @@ Ehv是e站的非官方客户端, 在2014年12月, 天才开发者Hippo发布初�
 Ehv目前主要的版本如下
 ------------
 
-Ehviewer-xiaojieonly 版
+Ehviewer-xiaojieonly 版  
 https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases
 
-Ehviewer-Overhauled 版 
+Ehviewer-Overhauled 版  
 https://github.com/Ehviewer-Overhauled/Ehviewer/releases
 
-FEhViewer(Flutter构建, 非Hippo版本重构)
+FEhViewer(Flutter构建, 非Hippo版本重构)  
 https://github.com/honjow/FEhViewer/releases
 
-Hippo版(已停更 Ver1.7.8, 目前不能翻页)
+Hippo版(已停更 Ver1.7.8, 目前不能翻页)  
 https://t.me/ehviewer/2127118
 
