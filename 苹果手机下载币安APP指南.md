@@ -18,18 +18,15 @@
 
 由于中国大陆的苹果应用商店没有上架币安APP，所以需要使用海 外Apple ID，获取方式： 1. 自己注册一个新的海外Apple ID，下面有教程 2. 不会注册的人，也在淘宝上搜索“苹果i”买一个海外账号 （美国Apple ID不可以，推荐台湾地区Apple ID） 有了海外账号之后就可以准备安装了，详见“登陆新Apple ID下载”  
 
-
-![App_Store首页](media/App_Store%E9%A6%96%E9%A1%B5-1.jpeg)
-
-
+<img src="picture/App_Store首页.jpeg" width="333px">
 
 点击头像
 
-![点击头像](media/%E7%82%B9%E5%87%BB%E5%A4%B4%E5%83%8F.jpeg)
+<img src="picture/App_Store点击头像.jpeg" width="333px">
 
 选择台湾
 
-![选择香港](media/%E9%80%89%E6%8B%A9%E9%A6%99%E6%B8%AF.jpeg)
+<img src="picture/选择香港.jpeg" width="333px">
 
 街道和电话随意填写即可, 比如xx, 1234567890
 
