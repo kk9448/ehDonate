@@ -23,4 +23,4 @@
 选项三: 发送任意字符到 download@binance.com , 在邮件中获取最新的下载链接
 
 
-![app_donload](media/app_donload.jpeg)
+![app_donload](picture/app_donload.jpeg)

@@ -26,9 +26,12 @@
  
  注: ehv中的下载, 是使用爬虫爬网页端端内容, 并不是e站的正规下载方式, 论坛甚至一部分用户认为ehv这种使用爬虫下载, 大量占用了e站的资源, 菠萝(e站站长)目前对爬虫下载是睁一只眼闭一只眼的态度, 只对爬虫过量下载进行了限制
  
- 下面列出正规下载方式![screenshot_3571](media/screenshot_3571.jpg)
+ 下面列出正规下载方式
+ ![Archive_download.jpeg](picture/Archive_download.jpg)
 
-![screenshot_3572](media/screenshot_3572.jpg)
+
+![archive2.jpeg](picture/archive2.jpg)
+
 
 如图,给出了2种下载方式
     Download Original Archive: 下载原图 25.10MB
@@ -37,7 +40,7 @@
 
 
 恢复浏览配额
-![screenshot_3573](media/screenshot_3573.jpg)
+![恢复配额](picture/恢复配额.jpg)
 
 
 Credit: e站小游戏HV中的积分,一般用在HV中
