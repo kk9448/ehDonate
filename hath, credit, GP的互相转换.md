@@ -17,7 +17,8 @@
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
 My Home -> Hath Exchange
-![screenshot_3574](media/screenshot_3574.jpg)
+
+ ![Hath_exchange](picture/Hath_exchange.jpg)
 
 如上图所示, 这是e站内部的一个交易hath的地方
 主要分为2个大区域
@@ -41,4 +42,5 @@ Ask(Sellers)卖方
 
 如果想立即成交, 出价2969即可
 GP和Hath是同一个道理,如下图
-![screenshot_3575](media/screenshot_3575.jpg)
+
+ ![GP_exchange](picture/GP_exchange.jpg)
