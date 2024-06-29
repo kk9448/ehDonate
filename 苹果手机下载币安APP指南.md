@@ -30,10 +30,11 @@
 
 街道和电话随意填写即可, 比如xx, 1234567890
 
-![地址](media/%E5%9C%B0%E5%9D%80.jpeg)
+<img src="picture/地址.jpeg" width="333px">
 
 之后确认即可
 
 更改完地区之后, 在App Store搜索币安,下载即可
 
-![搜索币安](media/%E6%90%9C%E7%B4%A2%E5%B8%81%E5%AE%89.jpeg)
+<img src="picture/搜索币安.jpeg" width="333px">
+
