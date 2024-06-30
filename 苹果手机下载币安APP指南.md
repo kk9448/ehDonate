@@ -52,3 +52,12 @@
 <img src="picture/苹果手机币安App下载/点击登录.jpeg" width="333px">
 
 <img src="picture/苹果手机币安App下载/搜索币安.png" width="333px">
+
+1. 点击 "获取" 币安APP后，可能需要同意协议和填写支付方式，支 付方式直接选择无。其他信息随便填，填乱七八糟数字都可以
+
+<img src="picture/苹果手机币安App下载/aggree.png" width="333px">
+
+<img src="picture/苹果手机币安App下载/填写地址.png" width="333px">
+
+第三步：注册币安 下载后打开币安APP，选择作为币圈老手，进入APP首页，点击“注册 /登录” – 直接输入中国手机号/邮箱 - 填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久最高比例返现**， – 输入验证码 –启用通行密钥(就 是扫脸验证), 完成验证后, 请telegram **私聊 @carbon_x 领取5美元**
+
