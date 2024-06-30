@@ -51,4 +51,4 @@
 
 <img src="picture/苹果手机币安App下载/点击登录.jpeg" width="333px">
 
-<img src="picture/苹果手机币安App下载/搜索币安.jpeg" width="333px">
+<img src="picture/苹果手机币安App下载/搜索币安.png" width="333px">
