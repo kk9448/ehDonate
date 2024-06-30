@@ -18,23 +18,37 @@
 
 由于中国大陆的苹果应用商店没有上架币安APP，所以需要使用海 外Apple ID，获取方式： 1. 自己注册一个新的海外Apple ID，下面有教程 2. 不会注册的人，也在淘宝上搜索“苹果i”买一个海外账号 （美国Apple ID不可以，推荐台湾地区Apple ID） 有了海外账号之后就可以准备安装了，详见“登陆新Apple ID下载”  
 
-<img src="picture/App_Store首页.jpeg" width="333px">
+<img src="picture/苹果手机币安App下载/淘宝搜索Apple_id.jpeg" width="333px">  
 
-点击头像
+<img src="picture/苹果手机币安App下载/淘宝搜索结果.jpeg" width="333px">
 
-<img src="picture/App_Store点击头像.jpeg" width="333px">
+自己注册海外Apple ID步骤
 
-选择台湾
+1. 通过苹果官网注册：https://appleid.apple.com/account ，手机打 开后，创建Apple ID的按钮比较隐藏，点击右上角小箭头可以看 到 “创建你的Apple ID”  
+2. 国家或地区：选择台湾。亲测台湾最稳定，语言也看得懂  
+3. 邮箱和手机号
+      a. 邮箱：已经注册过Apple ID的邮箱不能重复用，
+         拿一个没用过的邮箱来填  
+      b. 手机号：填写可收到验证码的手机号，可以直接填中国
+         大陆 的手机号，以前注册过Apple ID的号码也可以重复使用  
+4. 其他按步骤验证邮箱和手机号就好了
 
-<img src="picture/选择香港.jpeg" width="333px">
+<img src="picture/苹果手机币安App下载/Apple ID.jpeg" width="333px">
 
-街道和电话随意填写即可, 比如xx, 1234567890
+<img src="picture/苹果手机币安App下载/创建Apple_id.jpeg" width="333px">
 
-<img src="picture/地址.jpeg" width="333px">
+<img src="picture/苹果手机币安App下载/选择台湾.jpeg" width="333px">
 
-之后确认即可
+登陆新Apple ID下载
 
-更改完地区之后, 在App Store搜索币安,下载即可
+1.打开App Store，点右上角小人头进去，滑到最下面点“退出登录”  
+2.同样小人头点进去，退出后登录海外Apple ID  
+3.现在就可以搜索到币安了，点击获取
 
-<img src="picture/搜索币安.jpeg" width="333px">
+<img src="picture/苹果手机币安App下载/点击账户.png" width="333px">
 
+<img src="picture/苹果手机币安App下载/退出账户.jpeg" width="333px">
+
+<img src="picture/苹果手机币安App下载/点击登录.jpeg" width="333px">
+
+<img src="picture/苹果手机币安App下载/搜索币安.jpeg" width="333px">
