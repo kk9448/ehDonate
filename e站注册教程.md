@@ -29,7 +29,7 @@ https://e-hentai.org/bounce_login.php?b=d&bt=1-11
 
  ![Info](picture/Info.jpg)
 
-登录名: 每次登录e站的登录名, 对应第一张图中的user:  {span class="text-red-600"}登录名永远无法更改!{/span} 
-显示名: 画廊中,显示的上传者的名字, {span class="text-red-600"}金星用户及以上可以每年更改一次显示名{/span}, 其他级别用户无法更改 
+登录名: 每次登录e站的登录名, 对应第一张图中的user,**登录名永远无法更改!**
+显示名: 画廊中,显示的上传者的名字, **铜星用户及以上可以每年更改一次显示名**, 其他级别用户无法更改 
 
  ![display_name](picture/display_name.jpg)
