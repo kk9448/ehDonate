@@ -178,20 +178,18 @@ https://t.me/carbon_research
 
 <img src="picture/选择通过区块链转账.jpeg" width="333px">
 
-提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch,输入提现的数量
-
-<img src="picture/选择bch网络.jpeg" width="333px">
-
 然后进入e站, My Home → Donation → Bitcoin Cash     
-复制我们第一步得到的地址, 粘贴到币安的提现地址, 提现
+红色方块中的一串数字, 就是自己eh账户的bch地址, 复制下来
 
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
-在框里输入20, 蓝色方块里显示的就是你最少需要的bch数量,  
-在提现时, 扣去手续费后, 最小的数量为蓝色方块里的数量
+在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量, 在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
 
+提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址,主网络选择bch,输入需要提现的数量,点击提现
+
+<img src="picture/选择bch网络.jpeg" width="333px">
 
 到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
 
