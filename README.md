@@ -50,7 +50,7 @@ https://t.me/carbon_research
 
 **qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq** 
 
-这就是我们的bch钱包地址, 我们之后要用
+这就是我们的bch钱包地址, 复制下来, 我们之后要用
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
 
