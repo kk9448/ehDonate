@@ -4,7 +4,7 @@
 
 *  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
 
-*  [数字货币相关](https://crypto0xpanda.notion.site)
+*  [数字货币相关](https://crypto0xpanda.notion.site/aa75a581ca684d94955dedacb54bcd68)
 
 *  [eh搜索规则](https://github.com/kk9448/ehDonate/blob/main/eh搜索规则.md)
 
