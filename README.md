@@ -69,7 +69,7 @@ https://t.me/carbon_research
 [注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 币安注册链接(免翻墙，大陆直连)  
-[注册链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
+[注册链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)
 
 ## 网页版教程(手机版在后边)
 
