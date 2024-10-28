@@ -62,11 +62,6 @@ https://t.me/carbon_research
 
 使用我的[邀请链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久手续费8折**，这样捐赠成本为15美元约115RMB, (推荐使用台湾ip注册, 不要使用美国,日本,的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后, 请telegram **私聊 @carbon_x 领取5美元福利**
 
-限时免费获得e站铜星活动, 注册币安赠送35美元
-活动时间: 2024年10月25日20:00:00至2024年11月8日19:59:59
-详情请进tg群查看置顶 
-https://t.me/carbon_research
-
 币安注册链接(需要翻墙，不要使用美国ip)  
 [注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
