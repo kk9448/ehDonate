@@ -19,7 +19,7 @@ https://t.me/carbon_research
 
 *  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
 
-*  [数字货币相关](https://crypto0xpanda.notion.site/513609bac67c4979ab2a5f7c9a49c57b?pvs=4)
+*  [数字货币相关](https://crypto0xpanda.notion.site/aa75a581ca684d94955dedacb54bcd68)
 
 *  [eh搜索规则](https://github.com/kk9448/ehDonate/blob/main/eh搜索规则.md)
 
@@ -50,24 +50,23 @@ https://t.me/carbon_research
 
 **qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq** 
 
-这就是我们的bch钱包地址, 我们之后要用
+这就是我们的bch钱包地址, 复制下来, 我们之后要用
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
 
 # 3.如何购买数字货币
 
-
 **个人推荐**  
 
-[币安](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)，全球最大，全球各国政府牌照 拿的最多，资金安全有保障(注意: 不能使用美国ip访问, 币安不对美国提供服务)
+[币安](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)，全球最大，全球各国政府牌照, 拿的最多，资金安全有保障(注意: 不能使用美国ip访问, 币安不对美国提供服务)
 
-使用我的[邀请链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久手续费8折**，(推荐使用台湾ip注册, 不要使用美国,日本,或香港的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后,请telegram **私聊 @carbon_x 领取5美元专属福利**[这样捐赠成本为115 RMB]
+使用我的[邀请链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44), 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久手续费8折**，这样捐赠成本为15美元约115RMB, (推荐使用台湾ip注册, 不要使用美国,日本,的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后, 请telegram **私聊 @carbon_x 领取5美元福利**
 
 币安注册链接(需要翻墙，不要使用美国ip)  
 [注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
 
 币安注册链接(免翻墙，大陆直连)  
-[注册链接](https://accounts.suitechsui.club/zh-CN/register?ref=R1SE0A44)
+[注册链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)
 
 ## 网页版教程(手机版在后边)
 
@@ -178,20 +177,21 @@ https://t.me/carbon_research
 
 <img src="picture/选择通过区块链转账.jpeg" width="333px">
 
-提现地址填写我们自己eh账户中的捐赠地址, 主网络选择bch,输入提现的数量
-
-<img src="picture/选择bch网络.jpeg" width="333px">
-
 然后进入e站, My Home → Donation → Bitcoin Cash     
-复制我们第一步得到的地址, 粘贴到币安的提现地址, 提现
+红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来,
+之后要填写到币安的提现地址之中.
 
 ![pictur/eh_home.jpeg](picture/eh_home.jpeg)
 
-在框里输入20, 蓝色方块里显示的就是你最少需要的bch数量,  
-在提现时, 扣去手续费后, 最小的数量为蓝色方块里的数量
+在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量  
+在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
 
+提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址  
+主网络选择bch,输入需要提现的数量,点击提现
+
+<img src="picture/选择bch网络.jpeg" width="333px">
 
 到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
 
