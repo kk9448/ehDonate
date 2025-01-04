@@ -70,16 +70,14 @@ https://t.me/carbon\_research
 
 左上角,选择一键买币
 
-<figure><img src=".gitbook/assets/选择一键买币.jpeg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/选择一键买币.jpeg" alt=""><figcaption><p>选择一键买币</p></figcaption></figure>
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1USDT就相当于1美元**)进行交易的\
 注册账户, 完成身份认证后就可以使用银行卡, 支付宝和微信购买USDT了
 
 输入要购买的金额150, 选择CNY, 点击购买, 之后跟着平台提示进行操作即可
 
-![picture/快捷区购买usdt.jpeg](picture/快捷区购买usdt.jpeg)
+<figure><img src="picture/快捷区购买usdt.jpeg" alt=""><figcaption></figcaption></figure>
 
 购买完成后, usdt会出现在我们的资金账户中
 
