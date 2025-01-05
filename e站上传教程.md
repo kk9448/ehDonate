@@ -14,18 +14,15 @@
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
-![screenshot_3560.jpg][1]
-
+![e站上传教程图片1](picture/e站上传教程图片1.jpg)
 
 如图所示, 选择 My Uploads -> Create New Gallery
 
-
-![my upload_create gallery.jpeg][2]
-
+![e站上传教程图片2](picture/e站上传教程图片2.jpg)
 main title 填写画廊显示名称, 不用非要填英文
 Japanese Script Title 画廊的日文名称,可以不填写.
 
-![Image on 2022-11-11 22.50.18.png][3]
+![e站上传教程图片3](picture/e站上传教程图片3.png)
 然后选择画廊种类  
 下面解释一下分类
 
@@ -43,8 +40,7 @@ Japanese Script Title 画廊的日文名称,可以不填写.
 
 ## 注意 ##
 1. eh不允许上传真人色情
-2. 对于Cosplay, 该Cosplay必须和动漫相关, 有动漫中的某个人物. 福利姬穿水手服并不算Cosplay, 因为
-没有动漫相关人物出现, 这种会被算为real porn, 被删除
+2. 对于Cosplay, 该Cosplay必须和动漫相关, 有动漫中的某个人物. 福利姬穿水手服并不算Cosplay, 因为没有动漫相关人物出现, 这种会被算为real porn, 被删除
 3. 重复, 不完整的画廊也会被删除
 
   [1]: http://sinner.ehentai.info/usr/uploads/2022/11/509347047.jpg
