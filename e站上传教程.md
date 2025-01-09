@@ -12,9 +12,13 @@
 
 如图所示, 选择 My Uploads -> Create New Gallery
 
-![e站上传教程图片2](picture/e站上传教程图片2.jpg) main title 填写画廊显示名称, 不用非要填英文 Japanese Script Title 画廊的日文名称,可以不填写.
+<figure><img src="picture/e站上传教程图片2.jpg" alt=""><figcaption></figcaption></figure>
 
-![e站上传教程图片3](picture/e站上传教程图片3.png) 然后选择画廊种类\
+main title 填写画廊显示名称, 不用非要填英文 Japanese Script Title 画廊的日文名称,可以不填写.
+
+<figure><img src="picture/e站上传教程图片3.png" alt=""><figcaption></figcaption></figure>
+
+然后选择画廊种类\
 下面解释一下分类
 
 **Doujinshi** : 一般那种几十页的同人\
