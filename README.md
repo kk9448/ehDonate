@@ -36,7 +36,7 @@ eh有一部分内容(里区), 仅针对部分用户开放
 [e站捐赠用户特别福利](eh捐赠用户特别福利.md)
 
 有疑问的话, 欢迎加入群组讨论\
-https://t.me/carbon\_research
+https://t.me/carbon_research
 
 ## 2.获取自己e站账户的捐赠地址
 
