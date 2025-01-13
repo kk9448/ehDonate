@@ -136,21 +136,24 @@ https://t.me/carbon_research
 就可以使用银行卡,微信,支付宝,购买usdt了\
 选择快捷区, 输入150
 
-![](picture/购买usdt.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4020565188.jpeg" width="333px">
+
 
 首页中选择最上方的搜索框, 输入bch
 
-![](picture/输入bch.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3153137878.jpeg" width="333px">
 
 选择bch/usdt交易对
 
-![](picture/选择bch_usdt交易对.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4148300901.jpeg" width="333px">
 
 点击买入
 
-![](picture/点击买入.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/229552120.jpeg" width="333px">
 
 选择市单价, 输入20,点击买入bch
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/1127816770.jpg" width="333px">
 
 ![](picture/输入20.jpeg)
 
