@@ -1,7 +1,8 @@
 # eh捐赠教程
 
-e站表站: https://e-hentai.org/\
-e站里站: https://exhentai.org/\
+e站表站: https://e-hentai.org/
+
+e站里站: https://exhentai.org/
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
 
 [视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)
