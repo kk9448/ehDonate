@@ -3,11 +3,14 @@
 e站表站: https://e-hentai.org/
 
 e站里站: https://exhentai.org/
+
 点击里站地址, 如果有内容出现, 则说明账号有里站权限
 
 [视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)
 
-不明白的地方可以tg群里提问 https://t.me/carbon\_research\
+不明白的地方可以tg群里提问 
+https://t.me/carbon\_research\
+
 实在嫌麻烦的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB) 详情请见\\
 
 [代捐赠](代捐赠.md)
