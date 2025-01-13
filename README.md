@@ -88,7 +88,7 @@ https://t.me/carbon_research
 
 ![picture/从资金账户划转到现货账户.jpeg](picture/从资金账户划转到现货账户.jpeg)
 
-选择从资金账户划转到现货账户, 输入数量,点击确认
+选择从资金账户划转到现货账户, 选择USDT, 输入数量,点击确认
 
 ![picture/划转usdt.jpeg](picture/划转usdt.jpeg)
 
