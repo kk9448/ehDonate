@@ -127,11 +127,11 @@ https://t.me/carbon_research
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
-![](picture/专业版.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/05/1552690628.png" width="333px">
 
 交易选项卡中, 选择c2c
 
-![](picture/手机交易选项卡C2C.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2772776738.jpeg" width="333px">
 
 就可以使用银行卡,微信,支付宝,购买usdt了\
 选择快捷区, 输入150
