@@ -131,31 +131,29 @@ https://t.me/carbon_research
 
 交易选项卡中, 选择c2c
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2772776738.jpeg" width="333px">
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2772776738.jpeg" width="400px">
 
 就可以使用银行卡,微信,支付宝,购买usdt了\
 选择快捷区, 输入150
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4020565188.jpeg" width="333px">
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4020565188.jpeg" width="400px">
 
 
 首页中选择最上方的搜索框, 输入bch
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3153137878.jpeg" width="333px">
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3153137878.jpeg" width="400px">
 
 选择bch/usdt交易对
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4148300901.jpeg" width="333px">
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4148300901.jpeg" width="400px">
 
 点击买入
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/229552120.jpeg" width="333px">
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/229552120.jpeg" width="400px">
 
 选择市单价, 输入20,点击买入bch
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/1127816770.jpg" width="333px">
-
-![](picture/输入20.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2571400450.jpeg" width="400px">
 
 之后在底部选择资金, 在上方选择现货选项卡, 点击bch
 
