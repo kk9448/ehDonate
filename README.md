@@ -127,7 +127,7 @@ https://t.me/carbon_research
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
-<img src="http://sinner.ehentai.info/usr/uploads/2024/05/1552690628.png" width="444px">
+<img src="http://sinner.ehentai.info/usr/uploads/2024/05/1552690628.png" width="400px">
 
 交易选项卡中, 选择c2c
 
