@@ -157,15 +157,16 @@ https://t.me/carbon_research
 
 之后在底部选择资金, 在上方选择现货选项卡, 点击bch
 
-![](picture/点击bch.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/1474867040.jpeg" width="400px">
+
 
 选择提现
 
-![](picture/选择提现.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/909008597.jpeg" width="400px">
 
 选择通过区块链转账
 
-![](picture/选择通过区块链转账.jpeg)
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2458589661.jpeg" width="400px">
 
 然后进入e站, My Home → Donation → Bitcoin Cash\
 红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来, 之后要填写到币安的提现地址之中.
