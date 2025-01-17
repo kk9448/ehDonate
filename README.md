@@ -53,15 +53,11 @@ https://t.me/carbon_research
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
 币安注册链接(需要翻墙，不要使用美国ip)  
-[注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  
+[邀请注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  
 币安注册链接(免翻墙，大陆直连)  
-[注册链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)
+[邀请注册链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)
 
-<span style="color:red;">R1SE0A44</span>
-<span style="color:#FF5733;">自定义颜色的文字</span>
-
-
-使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**，可以**免费获得5美元以及永久手续费8折**，这样捐赠成本为15美元约115RMB, (推荐使用台湾ip注册, 不要使用美国,日本,的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后, 请telegram **私聊 @carbon_x 领取5美元福利**, 不填写邀请码什么都没有,净亏
+使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**.  可以**免费获得5美元以及永久手续费8折**，这样捐赠成本为15美元约115RMB, (推荐使用台湾ip注册, 不要使用美国,日本,的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可, 完成验证后, 请telegram **私聊 @carbon_x 领取5美元福利**, 不填写邀请码什么都没有,是净亏的.
 
 ### 网页版教程(手机版教程在后边)
 
