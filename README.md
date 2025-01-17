@@ -53,8 +53,7 @@ https://t.me/carbon_research
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
 币安注册链接(需要翻墙，不要使用美国ip)  
-[注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
-
+[注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  
 币安注册链接(免翻墙，大陆直连)  
 [注册链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)
 
