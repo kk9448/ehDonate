@@ -174,8 +174,6 @@ https://t.me/carbon_research
 
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/3165186840.jpeg" width="400px">
 
-![](picture/选择bch网络.jpeg)
-
 ![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
 
 在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量\
