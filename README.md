@@ -5,8 +5,7 @@ e站表站: https://e-hentai.org/
 e站里站: https://exhentai.org/
 
 点击里站地址, 如果有内容出现, 则说明账号有里站权限  
-[视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)
-
+[视频教程](https://www.youtube.com/watch?v=Ti5jsO7lg_M)  
 不明白的地方可以tg群里提问  
 https://t.me/carbon_research
 
@@ -51,7 +50,7 @@ https://t.me/carbon_research
 
 **个人推荐**
 
-**币安**:  全球最大交易所，交易量最大大、流动性最强, 安全性最高, 用户数最多
+**币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
 币安注册链接(需要翻墙，不要使用美国ip)  
 [注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
