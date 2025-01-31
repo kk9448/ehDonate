@@ -73,8 +73,7 @@ Update time, 就是按画廊的更新时间排序, 因为上传者可以在任�
 -----
 
 这里要注意下
-选择对号的,是被排除的语言选项, 注意,{span class="text-red-600"}下方的N/A不要勾选{/span}
-N/A是not available的意思, 很多画廊是没有文字的, 比如ImageSet
+选择对号的,是被排除的语言选项, 注意,下方的N/A不要勾选,N/A是not available的意思, 很多画廊是没有文字的, 比如ImageSet
 和一些ArtistCG, 如果你勾选了,这些就会被排除
 ![picture/eh推荐设置6.png](picture/eh推荐设置6.png)
 
