@@ -12,12 +12,10 @@ Ehv目前主要的版本如下
 **Ehviewer-xiaojieonly 版**  
 https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases
 
-**Ehviewer-Overhauled 版**  
-https://github.com/Ehviewer-Overhauled/Ehviewer/releases
+**ENekoInverter 版**  
+https://github.com/EhViewer-NekoInverter/EhViewer/releases
 
-**FEhViewer(Flutter构建, 非Hippo版本重构)**  
-https://github.com/honjow/FEhViewer/releases
+**FooIbar 版**  
+https://github.com/FooIbar/EhViewer/releases
 
-**Hippo版(已停更 Ver1.7.8, 目前不能翻页)**  
-https://t.me/ehviewer/2127118
 
