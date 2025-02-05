@@ -3,6 +3,8 @@
 
 *  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
 
+* [Ehv最新版本下载](Ehv最新版本下载.md)  
+
 *  [数字货币相关](https://crypto0xpanda.notion.site/aa75a581ca684d94955dedacb54bcd68)
 
 *  [eh搜索规则](https://github.com/kk9448/ehDonate/blob/main/eh搜索规则.md)
@@ -12,6 +14,7 @@
 *  [ex无法跳页的解决方案](https://github.com/kk9448/ehDonate/blob/main/ex无法跳页的解决方案.md)
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
+
 
 # 搜索规则
 
