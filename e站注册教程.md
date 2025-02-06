@@ -17,6 +17,10 @@
 *  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
 
 # 进入
+
+e站表站: https://e-hentai.org/  
+e站里站: https://exhentai.org/  
+
 https://e-hentai.org/bounce_login.php?b=d&bt=1-11
 进行注册
 
