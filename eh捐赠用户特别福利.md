@@ -74,4 +74,4 @@
 
 
 捐赠教程请见
-[如何使用15美元完成20美元捐赠](https://github.com/kk9448/ehDonate/blob/main/README.md)
+[eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
