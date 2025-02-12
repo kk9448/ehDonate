@@ -10,7 +10,7 @@ https://github.com/EhViewer-NekoInverter/EhViewer/releases
 **FooIbar 版**  
 https://github.com/FooIbar/EhViewer/releases
 
-# Ehv的历史历史介绍
+# Ehv的历史介绍
 
 Ehviewer是e站的**非官方**客户端, 在2014年12月, 由天才开发者Hippo, 开发了初代Ehv 0.3.1, 可以说是时代的开始, 至此进入Ehv Hippo时代, 2014-2019 Hippo时代 (Ver0.3.1 - Ver1.7.3), 在2019年年末, 出于种种原因, Hippo暂时停止对Ehv的维护
 
