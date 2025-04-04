@@ -63,7 +63,7 @@ https://t.me/carbon_research
 币安注册链接(需要翻墙，不要使用美国ip)  
 [邀请注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  
 币安注册链接(免翻墙，大陆直连)  
-[邀请注册链接](https://www.suitechsui.guru/zh-CN/join?ref=R1SE0A44)
+[邀请注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
 可以**免费获得3美元以及永久手续费8折**，这样捐赠成本为17美元约125 RMB, (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
