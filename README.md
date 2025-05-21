@@ -129,7 +129,7 @@ https://t.me/carbon_research
 [安卓手机下载币安App教程](安卓手机下载币安App指南.md)\
 [苹果手机下载币安App教程](苹果手机下载币安APP指南.md)
 
-使用我的邀请码 **R1SE0A44** 或者 [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) 注册, 可以**免费获得5美元以及永久最高比例返现**
+使用我的邀请码 **R1SE0A44** 或者 [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) 注册, 可以**免费获得3美元以及永久最高比例返现**
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
