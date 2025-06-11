@@ -60,10 +60,16 @@ https://t.me/carbon_research
 
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
-币安注册链接(需要翻墙，不要使用美国ip)  
+币安注册链接(需要翻墙，不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)  
 [邀请注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  
-币安注册链接(免翻墙，大陆直连)  
+币安注册链接(免翻墙，大陆直连, 邀请码 **R1SE0A44**, , 使用邀请码可免费领取3美元)  
 [邀请注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)
+
+币安官方安卓App下载地址：
+https://download.mp3web.ac/pack/BNApp64.apk
+
+币安iOS App下载教程：
+https://www.marketwebb.link/zh-CN/download-guide
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
 可以**免费获得3美元现金以及100美元手续费减免券和永久手续费8折**，这样捐赠成本为17美元约125 RMB, (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
