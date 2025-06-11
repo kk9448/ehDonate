@@ -60,9 +60,9 @@ https://t.me/carbon_research
 
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
-[币安注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  (需要翻墙，不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)  
+[币安注册链接](https://www.binance.com/zh-CN/join?ref=R1SE0A44)  (该链接需要翻墙，不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)  
 
-[币安注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)(免翻墙，大陆直连, 邀请码 **R1SE0A44**, , 使用邀请码可免费领取3美元)  
+[币安注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)(该链接免翻墙，大陆直连, 邀请码 **R1SE0A44**, , 使用邀请码可免费领取3美元)  
 
 安卓币安官方App下载地址:\
 https://download.mp3web.ac/pack/BNApp64.apk
