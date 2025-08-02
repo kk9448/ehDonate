@@ -71,7 +71,7 @@ https://download.mp3web.ac/pack/BNApp64.apk
 https://www.marketwebb.link/zh-CN/download-guide
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
-2025年08月1日起, 通过我的邀请码注册币安, 可以获得13美元福利, 这样捐赠成本为7美元约50 RMB, 完成身份验证(3美元福利), 完成首笔合约交易(10美元福利), 3分钟即可完成,[合约交易教程](https://www.notion.so/crypto0xpanda/2424e86715e680eea46fc17c29be2d97?source=copy_link) 完成后, 请telegram **私聊 @carbon_x 领取13美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
+2025年08月1日起, 通过我的邀请码注册币安, 可以获得13美元福利, 这样捐赠成本为7美元约50 RMB  完成身份验证(3美元福利), 完成首笔合约交易(10美元福利), 3分钟即可完成,[合约交易教程](https://www.notion.so/crypto0xpanda/2424e86715e680eea46fc17c29be2d97?source=copy_link) 完成后, 请telegram **私聊 @carbon_x 领取13美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 完成验证后, 请telegram **私聊 @carbon_x 领取3美元福利**, 不填写邀请码什么都没有,是净亏的.
 大户可以telegram **私聊 @carbon_x**
 
