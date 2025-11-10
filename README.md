@@ -71,8 +71,10 @@ https://www.marketwebb.link/zh-CN/download-guide
 [币安注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)(该链接免翻墙，大陆直连, 邀请码 **R1SE0A44**, , 使用邀请码可免费领取3美元)  
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
-2025年08月1日起, 通过我的邀请码注册币安, 可以获得[3美元福利](https://www.binance.com/zh-CN/join?ref=R1SE0A44)以及永久手续费返现
-完成身份验证后,私聊 @carbon_x可获得3美元. 
+2025年11月1日起, 通过我的邀请码注册币安, 可以获得[10美元福利](https://www.binance.com/zh-CN/join?ref=R1SE0A44)以及永久手续费返现, 这样捐赠成本为10美元约72 RMB  
+完成身份验证可获得3美元, 完成首笔合约交易可获得7美元,  
+教程请见, 3分钟即可完成,  
+[合约交易教程](https://www.notion.so/crypto0xpanda/2424e86715e680eea46fc17c29be2d97?source=copy_link)  
 完成后, 请telegram **私聊 @carbon_x 领取3美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 不填写邀请码什么都没有,是净亏的.
 大户可以telegram **私聊 @carbon_x**
