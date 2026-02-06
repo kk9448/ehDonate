@@ -76,7 +76,7 @@ https://www.marketwebb.link/zh-CN/download-guide
 教程请见, 3分钟即可完成,  
 [合约交易教程](https://www.notion.so/crypto0xpanda/2424e86715e680eea46fc17c29be2d97?source=copy_link) 
 
-完成后, 请telegram **私聊 @carbon_x 领取3美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
+完成后, 请telegram **私聊 @carbon_x 领取3/10美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 不填写邀请码什么都没有,是净亏的.
 大户可以telegram **私聊 @carbon_x**
 
