@@ -6,6 +6,7 @@ e站里站: https://exhentai.org/
 
 图文教程如果有疏漏之处,可以参考视频教程  
 [视频教程](https://www.youtube.com/watch?v=pzJsRtCWFlI)  
+
 不明白的地方可以tg群里提问  
 https://t.me/carbon_research
 
