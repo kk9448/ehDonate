@@ -6,6 +6,7 @@ e站里站: https://exhentai.org/
 
 图文教程如果有疏漏之处,可以参考视频教程  
 [视频教程](https://www.youtube.com/watch?v=pzJsRtCWFlI)  
+
 不明白的地方可以tg群里提问  
 https://t.me/carbon_research
 
@@ -37,15 +38,16 @@ eh有一部分内容(里区), 仅针对部分用户开放
 **捐赠**: 可以立刻解锁里站权限(表站看里站内容), 立刻浏览全部eh内容，表站的速度个人感觉也比里站快\
 **不捐赠**: 新注册之后, 没有里区权限,如果想获得里区权限,需要使用原生欧美ip注册, 等待大约2周,有一定机率可以进入里区, 比较拼人品
 
-详情请见\
+捐赠用户还会获得一些额外权限  
+详情请见  
 [e站捐赠用户特别福利](eh捐赠用户特别福利.md)
 
-有疑问的话, 欢迎加入群组讨论\
+有疑问的话, 欢迎加入群组讨论  
 https://t.me/carbon_research
 
 ## 2.获取自己e站账户的捐赠地址
 
-进入e站, My Home → Donation → Bitcoin Cash\
+进入e站, My Home → Donation → Bitcoin Cash
 左边可以看到一串字母
 
 **qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq**
@@ -71,13 +73,14 @@ https://www.marketwebb.link/zh-CN/download-guide
 [币安注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)(该链接免翻墙，大陆直连, 邀请码 **R1SE0A44**, , 使用邀请码可免费领取3美元)  
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
-2026年2月1日起, 通过我的邀请码注册币安, 可以获得[10美元福利](https://www.binance.com/zh-CN/join?ref=R1SE0A44)以及永久手续费返现, 这样捐赠成本为10美元约72 RMB  
-使用外的邀请码可获得3美元, 完成首笔合约交易可获得7美元,  
-教程请见, 3分钟即可完成,  
+不填写邀请码什么都没有,是净亏的  
+ 
+2026年3月1日起, 注册币安即送10美元(注册送3美元, 完成首笔合约交易送7美元), 这样捐赠铜星成本为10美元约72 RMB  
+
+合约教程请见, 3分钟即可完成,  
 [合约交易教程](https://www.notion.so/crypto0xpanda/2424e86715e680eea46fc17c29be2d97?source=copy_link) 
 
-完成后, 请telegram **私聊 @carbon_x 领取3美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
-不填写邀请码什么都没有,是净亏的.
+完成后, 请telegram **私聊 @carbon_x 领取3/10美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 大户可以telegram **私聊 @carbon_x**
 
 ### 网页版教程(手机版教程在后边)
