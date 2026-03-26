@@ -62,7 +62,7 @@ https://t.me/carbon_research
 
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
-[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)
+[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)  
 https://www.bsmkweb.cc/join?ref=R1SE0A44  
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
