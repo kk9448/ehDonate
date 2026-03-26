@@ -68,9 +68,7 @@ https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk
 币安iOS App下载教程:  
 https://www.marketwebb.link/zh-CN/download-guide  
 
-[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (该链接需要翻墙，不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)
-
-[币安注册链接](https://www.marketwebb.black/zh-CN/join?ref=R1SE0A44)(该链接免翻墙，大陆直连, 邀请码 **R1SE0A44**, , 使用邀请码可免费领取3美元)  
+[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)
 
 使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
 不填写邀请码什么都没有,是净亏的  
