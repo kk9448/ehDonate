@@ -68,7 +68,6 @@ https://t.me/carbon_research
 不填写邀请码什么都没有,是净亏的  
 
 [安卓币安官方App下载](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
-
 [币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
   
 
