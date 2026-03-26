@@ -64,14 +64,14 @@ https://t.me/carbon_research
 
 [币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)
 
+使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
+不填写邀请码什么都没有,是净亏的  
+
 安卓币安官方App下载地址:  
 https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk
 
 币安iOS App下载教程:  
 https://www.marketwebb.link/zh-CN/download-guide  
-
-使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
-不填写邀请码什么都没有,是净亏的  
 
 完成后, 请telegram **私聊 @carbon_x 领取3美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 大户可以telegram **私聊 @carbon_x**
