@@ -74,7 +74,82 @@ https://t.me/carbon_research
 使用邀请码 **R1SE0A44** 注册完成后, 请telegram **私聊 @carbon_x 领取3美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 大户可以telegram **私聊 @carbon_x**
 
-### 网页版教程(手机版教程在后边)
+### 手机版(网页版教程在后边)
+
+首先在应用商店中下载币安\
+[安卓手机下载币安App教程](安卓手机下载币安App指南.md)\
+[苹果手机下载币安App教程](苹果手机下载币安APP指南.md)
+
+使用我的邀请码 **R1SE0A44** 或者 [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) 注册, 可以**免费获得3美元以及永久最高比例返现**
+
+注册账户后,左上角进入账户管理, 下方切换为专业版
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/05/1552690628.png" width="400px">
+
+交易选项卡中, 选择c2c
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2772776738.jpeg" width="400px">
+
+就可以使用银行卡,微信,支付宝,购买usdt了\
+选择快捷区, 输入150
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4020565188.jpeg" width="400px">
+
+
+首页中选择最上方的搜索框, 输入bch
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3153137878.jpeg" width="400px">
+
+选择bch/usdt交易对
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4148300901.jpeg" width="400px">
+
+点击买入
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/229552120.jpeg" width="400px">
+
+选择市单价, 输入20,点击买入bch
+
+新手任务
+
+(币安新用户交易量达到100美元, 币安有概率会发3美元或者其他代币的空投 (独立于注册找我领取的3美元, 额外的奖励), 上面买入20美元bch, 交易量就算做20, 把这20美元bch卖了, 交易量就算是40, 买+卖都算, 重复2.5次即可完成新手任务, 这样又可以降低成本)
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2571400450.jpeg" width="400px">
+
+之后在底部选择资金, 在上方选择现货选项卡, 点击bch
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/1474867040.jpeg" width="400px">
+
+
+选择提现
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/909008597.jpeg" width="400px">
+
+选择通过区块链转账
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2458589661.jpeg" width="400px">
+
+然后进入e站, My Home → Donation → Bitcoin Cash\
+红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来, 之后要填写到币安的提现地址之中.
+
+提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址\
+主网络选择bch,输入需要提现的数量,点击提现
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3165186840.jpeg" width="400px">
+
+![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
+
+在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量\
+在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
+
+![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
+
+
+
+到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
+
+
+### 网页版教程
 
 切换语言为简体中文
 
@@ -115,7 +190,7 @@ https://t.me/carbon_research
 
 新手任务
 
-(币安新用户交易量达到50美元, 可以完成新手任务, 领取2-3美元空投 (独立于注册找我领取的3美元, 额外的奖励, 完成后2周内发放), 上面买入20美元bch, 交易量就算做20, 把这20美元bch卖了, 交易量就算是40, 买+卖都算, 重复3次即可完成新手任务, 稍微多一点,确保一定够, 这样又可以降低成本)
+(币安新用户合约交易量达到100美元, 币安有概率会发3美元或者其他代币的空投 (独立于注册找我领取的3美元, 额外的奖励), 上面买入20美元bch, 交易量就算做20, 把这20美元bch卖了, 交易量就算是40, 买+卖都算, 重复3次即可完成新手任务, 稍微多一点,确保一定够, 这样又可以降低成本)
 
 ![输入20点击确定电脑版.jpeg](picture/输入20点击确定电脑版.jpeg)
 
@@ -129,80 +204,6 @@ https://t.me/carbon_research
 ![picture/提现bch2.jpeg](picture/提现bch2.jpeg)
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
-
-到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
-
-### 手机版
-
-首先在应用商店中下载币安\
-[安卓手机下载币安App教程](安卓手机下载币安App指南.md)\
-[苹果手机下载币安App教程](苹果手机下载币安APP指南.md)
-
-使用我的邀请码 **R1SE0A44** 或者 [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) 注册, 可以**免费获得3美元以及永久最高比例返现**
-
-注册账户后,左上角进入账户管理, 下方切换为专业版
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/05/1552690628.png" width="400px">
-
-交易选项卡中, 选择c2c
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2772776738.jpeg" width="400px">
-
-就可以使用银行卡,微信,支付宝,购买usdt了\
-选择快捷区, 输入150
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4020565188.jpeg" width="400px">
-
-
-首页中选择最上方的搜索框, 输入bch
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3153137878.jpeg" width="400px">
-
-选择bch/usdt交易对
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/4148300901.jpeg" width="400px">
-
-点击买入
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/229552120.jpeg" width="400px">
-
-选择市单价, 输入20,点击买入bch
-
-新手任务
-
-(币安新用户交易量达到50美元, 可以完成新手任务, 领取2-3美元空投 (独立于注册找我领取的3美元, 额外的奖励, 完成后2周内发放), 上面买入20美元bch, 交易量就算做20, 把这20美元bch卖了, 交易量就算是40, 买+卖都算, 重复3次即可完成新手任务, 稍微多一点,确保一定够, 这样又可以降低成本)
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2571400450.jpeg" width="400px">
-
-之后在底部选择资金, 在上方选择现货选项卡, 点击bch
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/1474867040.jpeg" width="400px">
-
-
-选择提现
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/909008597.jpeg" width="400px">
-
-选择通过区块链转账
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2458589661.jpeg" width="400px">
-
-然后进入e站, My Home → Donation → Bitcoin Cash\
-红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来, 之后要填写到币安的提现地址之中.
-
-提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址\
-主网络选择bch,输入需要提现的数量,点击提现
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/3165186840.jpeg" width="400px">
-
-![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
-
-在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量\
-在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
-
-![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
-
-
 
 到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
 
