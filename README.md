@@ -71,8 +71,6 @@ https://t.me/carbon_research
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
 [币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
 
-大户可以telegram **私聊 @carbon_x**
-
 ## 4.1手机版教程(网页版教程在后边)
 
 首先在应用商店中下载币安
