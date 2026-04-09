@@ -65,6 +65,7 @@ https://t.me/carbon_research
 [币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)  
 
 使用邀请码注册, 可直接领取3美元, 完成新手任务(交易量达到50美元), 还可以额外领取3-5美元奖励
+
 使用链接或者手动输入邀请码 **R1SE0A44** 注册后, 请telegram **私聊 @carbon_x 领取3美元**,  
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
