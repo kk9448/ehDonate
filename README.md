@@ -64,23 +64,19 @@ https://t.me/carbon_research
 
 [币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip, 邀请码 **R1SE0A44**, 使用邀请码可免费领取3美元)  
 
-使用上面我的邀请链接注册, 或者手动填写邀请码 **R1SE0A44**  
-不填写邀请码什么都没有,是净亏的  
+使用邀请码注册, 可直接领取3美元, 完成新手任务(交易量达到50美元), 还可以额外领取3-5美元奖励
+使用链接或者手动输入邀请码 **R1SE0A44** 注册后, 请telegram **私聊 @carbon_x 领取3美元**,  
 
-[安卓币安官方App下载](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
+[Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
 [币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
-  
 
-使用邀请码 **R1SE0A44** 注册完成后, 请telegram **私聊 @carbon_x 领取3美元福利**,  (推荐使用台湾ip注册, 不要使用美国,日本的ip, 币安不对这几个地方提供服务)，使用大陆身份完成验证即可.  
 大户可以telegram **私聊 @carbon_x**
 
 ## 4.1手机版教程(网页版教程在后边)
 
-首先在应用商店中下载币安\
-[安卓手机下载币安App教程](安卓手机下载币安App指南.md)\
+首先在应用商店中下载币安
+[安卓手机下载币安App教程](安卓手机下载币安App指南.md)
 [苹果手机下载币安App教程](苹果手机下载币安APP指南.md)
-
-使用我的邀请码 **R1SE0A44** 或者 [邀请链接](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) 注册, 可以**免费获得3美元以及永久最高比例返现**
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
