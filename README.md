@@ -105,8 +105,17 @@ https://t.me/carbon_research
 
 选择市单价, 输入20,点击买入bch
 
-
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/2571400450.jpeg" width="400px">
+
+如果想把bch换成usdt, 则
+
+<img src="http://sinner.ehentai.info/usr/uploads/2026/04/2740250428.png" width="400px">
+
+
+因为捐赠需要的是bch, 如果需要捐赠。
+我们需要把usdt换成bch(买入bch)
+如果想提现成RMB, 
+则需要把多余的bch换成usdt(卖出bch)
 
 ### 新手任务
 
