@@ -85,7 +85,7 @@ https://t.me/carbon_research
 
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/2772776738.jpeg" width="400px">
 
-就可以使用银行卡,微信,支付宝,购买usdt了\
+就可以使用银行卡,微信,支付宝,购买usdt了  
 选择快捷区, 输入150
 
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/4020565188.jpeg" width="400px">
@@ -105,6 +105,9 @@ https://t.me/carbon_research
 
 选择市单价, 输入20,点击买入bch
 
+
+<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2571400450.jpeg" width="400px">
+
 ### 新手任务
 
 新手任务(2026年4月6日-2026年5月1日)
@@ -114,8 +117,6 @@ https://t.me/carbon_research
 2. 1000美元等值WAL赚币体验金 (价值大约3.8美元)
 
 (币安新用户交易量达到50美元, 可以完成新手任务, 领取2-3美元空投 (独立于注册找我领取的3美元, 额外的奖励, 完成后2周内发放), 上面买入20美元bch, 交易量就算做20, 把这20美元bch卖了, 交易量就算是40, 买+卖都算, 重复3次即可完成新手任务, 稍微多一点,确保一定够, 这样又可以降低成本)
-
-<img src="http://sinner.ehentai.info/usr/uploads/2024/01/2571400450.jpeg" width="400px">
 
 之后在底部选择资金, 在上方选择现货选项卡, 点击bch
 
