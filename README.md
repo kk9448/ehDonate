@@ -112,9 +112,9 @@ https://t.me/carbon_research
 <img src="http://sinner.ehentai.info/usr/uploads/2026/04/2740250428.png" width="400px">
 
 
-因为捐赠需要的是bch, 如果需要捐赠。
-我们需要把usdt换成bch(买入bch)
-如果想提现成RMB, 
+因为捐赠需要的是bch, 如果需要捐赠  
+我们需要把usdt换成bch(买入bch)  
+如果想提现成RMB,   
 则需要把多余的bch换成usdt(卖出bch)
 
 ### 新手任务
