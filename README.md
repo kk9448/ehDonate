@@ -62,9 +62,9 @@ https://t.me/carbon_research
 
 **币安**:  全球最大交易所，交易量最大大,流动性最强,用户数最多, 安全性最高. 
 
-[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip注册, 邀请码 **R1SE0A44**, 使用邀请码可免费领取2-5美元奖励)  
+[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip注册, 邀请码 **R1SE0A44**, 使用邀请码可领取2-5美元奖励)  
 
-使用链接或者手动输入邀请码 **R1SE0A44** 注册后, 可领取2-5美元奖励  
+使用链接或者手动输入邀请码 **R1SE0A44** , 可领取2-5美元奖励  
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
 [币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
@@ -132,17 +132,17 @@ https://t.me/carbon_research
 
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/2458589661.jpeg" width="400px">
 
-然后进入e站, My Home → Donation → Bitcoin Cash\
+然后进入e站, My Home → Donation → Bitcoin Cash  
 红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来, 之后要填写到币安的提现地址之中.
 
-提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址\
+提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址  
 主网络选择bch,输入需要提现的数量,点击提现
 
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/3165186840.jpeg" width="400px">
 
 ![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
 
-在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量\
+在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量  
 在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
@@ -202,7 +202,7 @@ https://t.me/carbon_research
 
 ![picture/提现bch1.jpeg](picture/提现bch1.jpeg)
 
-选择bch, 把开头获得的地址粘贴进去, 转账网络选择bch, 点击全部\
+选择bch, 把开头获得的地址粘贴进去, 转账网络选择bch, 点击全部  
 需要注意的是,我们要保证减去手续费后, 大于下图中篮框里的值
 
 ![picture/提现bch2.jpeg](picture/提现bch2.jpeg)
