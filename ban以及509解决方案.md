@@ -5,7 +5,7 @@
 *  [eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
 
 *  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
-
+*  [美股交易教程](https://crypto0xpanda.notion.site/3754e86715e680498fc0d1f71dd7bde1?source=copy_link)
 * [Ehv最新版本下载](Ehv最新版本下载.md)  
 
 *  [数字货币相关](https://crypto0xpanda.notion.site/aa75a581ca684d94955dedacb54bcd68)

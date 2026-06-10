@@ -18,7 +18,7 @@ https://t.me/carbon_research
 *  [eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
 
 *  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
-
+*  [美股交易教程](https://crypto0xpanda.notion.site/3754e86715e680498fc0d1f71dd7bde1?source=copy_link)
 *  [Ehv最新版本下载](Ehv最新版本下载.md)  
 
 *  [数字货币相关](https://crypto0xpanda.notion.site/aa75a581ca684d94955dedacb54bcd68)
@@ -62,9 +62,11 @@ https://t.me/carbon_research
 
 **币安**:  同时可以交易**美股**与**数字货币**, 合规, 使用大陆身份认证, 即可直接交易美股 
 
-[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip注册, 邀请码 **R1SE0A44**, 使用邀请码可领取2-5美元奖励)  
+[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44)  (不要使用美国ip注册, 邀请码 **R1SE0A44**, 使用邀请码完成首笔合约交易,可领取8美元)  
 
-使用链接或者手动输入邀请码 **R1SE0A44** , 可领取2-5美元奖励  
+使用链接或者手动输入邀请码 **R1SE0A44** , 使用邀请码完成任意一笔合约交易,可领取8美元,
+完成后, 请telegram 私聊@carbon_x 领取8美元
+[首次合约交易教程](https://crypto0xpanda.notion.site/86ad56691f92449081850f6658af2a41?source=copy_link)
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
 [币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
