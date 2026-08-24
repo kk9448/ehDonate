@@ -1,4 +1,3 @@
-# 目录
 ## 目录
 
 *  [Eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
