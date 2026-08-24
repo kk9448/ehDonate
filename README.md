@@ -19,7 +19,7 @@ https://t.me/carbon_research
 
 *  [E站捐赠用户特别福利](https://github.com/kk9448/ehDonate/tree/main/Eh捐赠用户特别福利)
 
-*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/BN购买美股(英伟达)教程)
+*  [BN购买美股(英伟达)教程](https://github.com/kk9448/ehDonate/tree/main/BN购买美股(英伟达)教程)
 
 *  [Ehv最新版本下载](https://github.com/kk9448/ehDonate/tree/main/App下载教程)  
 
@@ -34,7 +34,7 @@ eh有一部分内容(里区), 仅针对部分用户开放
 
 捐赠用户还会获得一些额外权限  
 详情请见  
-[E站捐赠用户特别福利](Eh捐赠用户特别福利.md)
+[E站捐赠用户特别福利](https://github.com/kk9448/ehDonate/tree/main/Eh捐赠用户特别福利)
 
 有疑问的话, 欢迎加入群组讨论  
 https://t.me/carbon_research
@@ -58,7 +58,7 @@ https://t.me/carbon_research
 
 币安是世界最大的数字资产交易平台, 无需换汇美元, 即可交易**美股**与**数字货币**,
 
-[内地购买美股教程](https://github.com/kk9448/ehDonate/blob/main/币安购买美股教程.md)
+[BN购买美股(英伟达)教程](https://github.com/kk9448/ehDonate/tree/main/BN购买美股(英伟达)教程)
 
  (注册时请不要使用美国ip, 使用链接或者手动输入邀请码 **R1SE0A44**注册, 即获得 完成任意一笔合约交易,可领取8美元)  
 
