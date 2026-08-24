@@ -48,7 +48,7 @@ https://t.me/carbon_research
 
 这就是我们的bch钱包地址, 复制下来, 我们之后要用
 
-<div data-full-width="false"><figure><img src="picture/eh_home.jpeg" alt=""><figcaption><p>获取自己的bch地址</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="media/eh_home.jpeg" alt=""><figcaption><p>获取自己的bch地址</p></figcaption></figure></div>
 
 ## 3.如何购买数字货币
 
@@ -137,7 +137,7 @@ https://t.me/carbon_research
 然后进入e站, My Home → Donation → Bitcoin Cash  
 红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来, 之后要填写到币安的提现地址之中.
 
-![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
+![media/eh\_home.jpeg](media/eh_home.jpeg)
 
 提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址  
 主网络选择bch,输入需要提现的数量,点击提现
@@ -149,7 +149,7 @@ https://t.me/carbon_research
 在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量  
 在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
 
-![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
+![media/捐赠数量.jpeg](media/捐赠数量.jpeg)
 
 
 
@@ -160,22 +160,22 @@ https://t.me/carbon_research
 
 切换语言为简体中文
 
-![切换语言.jpeg](picture/切换语言.jpeg)
+![切换语言.jpeg](media/切换语言.jpeg)
 
 左上角,选择一键买币
 
-<figure><img src="picture/选择一键买币.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="media/选择一键买币.jpeg" alt=""><figcaption></figcaption></figure>
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1 USDT就相当于1美元**)进行交易的
 注册账户, 完成身份认证后就可以使用银行卡, 支付宝和微信购买USDT了
 
 输入要购买的金额150, 选择CNY, 点击购买, 之后跟着平台提示进行操作即可
 
-<figure><img src="picture/快捷区购买usdt.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="media/快捷区购买usdt.jpeg" alt=""><figcaption></figcaption></figure>
 
 购买完成后, usdt会出现在我们的资金账户中
 
-![picture/进入资金账户.jpeg](picture/进入资金账户.jpeg)
+![media/进入资金账户.jpeg](media/进入资金账户.jpeg)
 
 进入资金账户后, 点击划转
 
