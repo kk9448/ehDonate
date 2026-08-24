@@ -175,11 +175,11 @@ https://t.me/carbon_research
 
 购买完成后, usdt会出现在我们的资金账户中
 
-![media/进入资金账户.jpeg](media/进入资金账户.jpeg)
+![进入资金账户.jpeg](media/进入资金账户.jpeg)
 
 进入资金账户后, 点击划转
 
-![media/从资金账户划转到现货账户.jpeg](media/从资金账户划转到现货账户.jpeg)
+![从资金账户划转到现货账户.jpeg](media/从资金账户划转到现货账户.jpeg)
 
 选择从资金账户划转到现货账户, 选择USDT, 输入数量,点击确认
 
