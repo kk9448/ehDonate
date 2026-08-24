@@ -1,7 +1,7 @@
 # 目录
 *  [eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
 
-*  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
+*  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/Eh捐赠用户特别福利.md)
 
 *  [内地购买美股教程](https://github.com/kk9448/ehDonate/blob/main/币安购买美股教程.md)
 

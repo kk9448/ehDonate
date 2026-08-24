@@ -11,19 +11,19 @@ e站里站: https://exhentai.org/
 https://t.me/carbon_research
 
 实在嫌麻烦的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB) 详情请见  
-[代捐赠](代捐赠.md)
+[代捐赠](Eh代捐赠.md)
 
 ## 目录
 
 *  [eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
 
-*  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/eh捐赠用户特别福利.md)
+*  [e站捐赠用户特别福利](https://github.com/kk9448/ehDonate/blob/main/Eh捐赠用户特别福利.md)
 
 *  [内地购买美股教程](https://github.com/kk9448/ehDonate/blob/main/币安购买美股教程.md)
 
 *  [Ehv最新版本下载](Ehv最新版本下载.md)  
 
-*  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/代捐赠.md)
+*  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/Eh代捐赠.md)
 
 ## 1.捐赠与不捐赠区别
 
@@ -34,7 +34,7 @@ eh有一部分内容(里区), 仅针对部分用户开放
 
 捐赠用户还会获得一些额外权限  
 详情请见  
-[e站捐赠用户特别福利](eh捐赠用户特别福利.md)
+[E站捐赠用户特别福利](Eh捐赠用户特别福利.md)
 
 有疑问的话, 欢迎加入群组讨论  
 https://t.me/carbon_research
