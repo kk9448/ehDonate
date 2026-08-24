@@ -69,6 +69,7 @@ https://t.me/carbon_research
  (注册时请不要使用美国ip, 使用链接或者手动输入邀请码 **R1SE0A44**注册, 即获得 完成任意一笔合约交易,可领取8美元)  
 
 使用邀请码注册, 完成任意一笔合约交易后, 请telegram 私聊@carbon_x 领取8美元
+
 [首次合约交易教程](https://github.com/kk9448/ehDonate/blob/main/合约交易教程.md)
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
