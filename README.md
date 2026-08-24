@@ -21,7 +21,7 @@ https://t.me/carbon_research
 
 *  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/币安购买美股教程.md)
 
-*  [Ehv最新版本下载](Ehv最新版本下载.md)  
+*  [Ehv最新版本下载](https://github.com/kk9448/ehDonate/tree/main/App下载教程)  
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠.md)
 
@@ -62,20 +62,19 @@ https://t.me/carbon_research
 
  (注册时请不要使用美国ip, 使用链接或者手动输入邀请码 **R1SE0A44**注册, 即获得 完成任意一笔合约交易,可领取8美元)  
 
-使用邀请码注册, 完成任意一笔合约交易后, 请telegram 私聊@carbon_x 领取8美元
+使用邀请码注册, 完成任意一笔合约交易后, 请telegram 私聊@carbon_x 领取5美元
 
 [首次合约交易教程](https://github.com/kk9448/ehDonate/blob/main/教程/合约交易教程.md)
 
 币安App下载链接
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
-[币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
+[安卓手机下载币安App教程](教程/安卓手机下载币安App指南.md)  
+[苹果手机下载币安App教程](教程/苹果手机下载币安APP指南.md)
 
 ## 4.1手机版教程(网页版教程在后边)
 
 首先在应用商店中下载币安  
-[安卓手机下载币安App教程](教程/安卓手机下载币安App指南.md)  
-[苹果手机下载币安App教程](教程/苹果手机下载币安APP指南.md)
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
