@@ -70,7 +70,7 @@ https://t.me/carbon_research
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
 
-[安卓手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/App下载教程/安卓手机下载币安App指南.md)  
+[安卓手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/App下载教程/安卓手机下载币安App教程.md)  
 
 [苹果手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/App下载教程/苹果手机下载币安App教程.md)
 
