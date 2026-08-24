@@ -179,24 +179,24 @@ https://t.me/carbon_research
 
 进入资金账户后, 点击划转
 
-![picture/从资金账户划转到现货账户.jpeg](picture/从资金账户划转到现货账户.jpeg)
+![media/从资金账户划转到现货账户.jpeg](media/从资金账户划转到现货账户.jpeg)
 
 选择从资金账户划转到现货账户, 选择USDT, 输入数量,点击确认
 
-![picture/划转usdt.jpeg](picture/划转usdt.jpeg)
+![划转usdt.jpeg](media/划转usdt.jpeg)
 
 选择交易,现货交易
 
-![picture/现货交易.jpeg](picture/现货交易.jpeg)
+![现货交易.jpeg](media/现货交易.jpeg)
 
 首页中选择最上方的搜索框, 输入bch, 选择bch/usdt交易对
 
-![picture/输入bch电脑版.jpeg](picture/输入bch电脑版.jpeg)
+![输入bch电脑版.jpeg](media/输入bch电脑版.jpeg)
 
 选择市价, 输入20, 点击买入bch
 
 
-![输入20点击确定电脑版.jpeg](picture/输入20点击确定电脑版.jpeg)
+![输入20点击确定电脑版.jpeg](media/输入20点击确定电脑版.jpeg)
 
 ### 新手任务
 
