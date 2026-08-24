@@ -15,8 +15,8 @@
 
 <img src="media/IMG_2352.PNG" width="400px">
 
-如果有自己想买的股票, 直接搜索即可 
-
+如果有自己想买的股票, 直接搜索即可
+ 
 <img src="media/IMG_2351.PNG" width="400px">
 
 
