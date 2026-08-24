@@ -161,7 +161,7 @@ https://t.me/carbon_research
 
 左上角,选择一键买币
 
-<figure><img src=".gitbook/assets/选择一键买币.jpeg" alt=""><figcaption><p>选择一键买币</p></figcaption></figure>
+<figure><img src="picture/选择一键买币.jpeg" alt=""><figcaption></figcaption></figure>
 
 所有的数字货币交易, 都是以美元稳定币USDT(与美元1:1, **1 USDT就相当于1美元**)进行交易的
 注册账户, 完成身份认证后就可以使用银行卡, 支付宝和微信购买USDT了
