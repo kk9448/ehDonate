@@ -136,12 +136,14 @@ https://t.me/carbon_research
 然后进入e站, My Home → Donation → Bitcoin Cash  
 红色方块中的一串数字, 就是自己eh账户的bch地址,复制下来, 之后要填写到币安的提现地址之中.
 
+![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
+
 提现地址填写我们上一步中获取的, 自己eh账户的bch地址, 复制粘贴到币安的提现地址  
 主网络选择bch,输入需要提现的数量,点击提现
 
 <img src="http://sinner.ehentai.info/usr/uploads/2024/01/3165186840.jpeg" width="400px">
 
-![pictur/eh\_home.jpeg](picture/eh_home.jpeg)
+
 
 在捐赠页面下方的框里输入20, 蓝色方块里显示的就是你最少需要的bch数量  
 在提现时, 扣去手续费后, 提现的数量必须大于等于蓝色方块里的数量
