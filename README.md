@@ -69,12 +69,14 @@ https://t.me/carbon_research
 币安App下载链接
 
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
+
 [安卓手机下载币安App教程](教程/安卓手机下载币安App指南.md)  
+
 [苹果手机下载币安App教程](教程/苹果手机下载币安APP指南.md)
 
 ## 4.1手机版教程(网页版教程在后边)
 
-首先在应用商店中下载币安  
+首先在注册币安, 网页与浏览器均可  
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
