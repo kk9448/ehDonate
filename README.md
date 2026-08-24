@@ -11,7 +11,7 @@ e站里站: https://exhentai.org/
 https://t.me/carbon_research
 
 实在嫌麻烦的朋友, 可以让楼主代为捐赠, 铜星200RMB(自己立刻捐赠成本约为150RMB) 详情请见  
-[代捐赠](Eh代捐赠.md)
+[代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠.md)
 
 ## 目录
 
@@ -23,7 +23,7 @@ https://t.me/carbon_research
 
 *  [Ehv最新版本下载](Ehv最新版本下载.md)  
 
-*  [代捐赠](https://github.com/kk9448/ehDonate/blob/main/Eh代捐赠.md)
+*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠.md)
 
 ## 1.捐赠与不捐赠区别
 
