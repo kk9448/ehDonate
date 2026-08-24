@@ -6,18 +6,18 @@
 
 *  [E站捐赠用户特别福利](https://github.com/kk9448/ehDonate/tree/main/Eh捐赠用户特别福利)
 
-*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/币安购买美股教程.md)
+*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/BN购买美股(英伟达)教程)
 
 *  [Ehv最新版本下载](https://github.com/kk9448/ehDonate/tree/main/App下载教程)  
 
-*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠.md)
+*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠)
 
 
 国内炒美股一直比较困难
 
 很多朋友想买**美股**，但一直被复杂的海外开户流程和高门槛劝退。
 
-现在只要有一个币安账户，就能直接买卖美国上市股票和 ETF 了。
+现在只需要注册一个[币安账户](https://www.bsmkweb.cc/join?ref=R1SE0A44)，就能直接买卖美国上市股票和 ETF 了。
 
 最低 5 美元就能起投，不用来回折腾换汇转账，在熟悉的币安界面就能低成本体验美股的魅力。
 
@@ -25,7 +25,7 @@
 
 <img src="media/IMG_2352.PNG" width="400px">
 
-如果有自己想买的股票, 直接搜索即可
+如果有自己想买的股票, 直接搜索即可, 想购买英伟达,输入NVDA即可
  
 <img src="media/IMG_2351.PNG" width="400px">
 

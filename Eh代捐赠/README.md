@@ -1,16 +1,20 @@
+
+
+# 代捐赠
+
 ## 目录
 
 *  [Eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
 
 *  [E站捐赠用户特别福利](https://github.com/kk9448/ehDonate/tree/main/Eh捐赠用户特别福利)
 
-*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/币安购买美股教程.md)
+*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/BN购买美股(英伟达)教程)
 
 *  [Ehv最新版本下载](https://github.com/kk9448/ehDonate/tree/main/App下载教程)  
 
-*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠.md)
+*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠)
 
-# 代捐赠
+
 铜星200RMB(自己捐赠成本约为150RMB)</br>
 推荐自己动手, 实在觉得出入金实在麻烦可以选择代捐
 2种方式
