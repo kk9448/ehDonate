@@ -204,14 +204,14 @@ https://t.me/carbon_research
 
 回到现货账户, 点击提现
 
-![picture/提现bch1.jpeg](picture/提现bch1.jpeg)
+![提现bch1.jpeg](media/提现bch1.jpeg)
 
 选择bch, 把开头获得的地址粘贴进去, 转账网络选择bch, 点击全部  
 需要注意的是,我们要保证减去手续费后, 大于下图中篮框里的值
 
-![picture/提现bch2.jpeg](picture/提现bch2.jpeg)
+![提现bch2.jpeg](media/提现bch2.jpeg)
 
-![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
+![捐赠数量.jpeg](media/捐赠数量.jpeg)
 
 到账后, 底下输入20USD, 再点击Apply Donation捐赠就完成了, 底下会显示你的捐赠级别, 之后就可以在表站搜索到里站的内容
 
