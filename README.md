@@ -64,7 +64,7 @@ https://t.me/carbon_research
 
 使用邀请码注册, 完成任意一笔合约交易后, 请telegram 私聊@carbon_x 领取8美元
 
-[首次合约交易教程](https://github.com/kk9448/ehDonate/blob/main/合约交易教程.md)
+[首次合约交易教程](https://github.com/kk9448/ehDonate/blob/main/教程/合约交易教程.md)
 
 币安App下载链接
 
@@ -74,8 +74,8 @@ https://t.me/carbon_research
 ## 4.1手机版教程(网页版教程在后边)
 
 首先在应用商店中下载币安  
-[安卓手机下载币安App教程](安卓手机下载币安App指南.md)  
-[苹果手机下载币安App教程](苹果手机下载币安APP指南.md)
+[安卓手机下载币安App教程](教程/安卓手机下载币安App指南.md)  
+[苹果手机下载币安App教程](教程/苹果手机下载币安APP指南.md)
 
 注册账户后,左上角进入账户管理, 下方切换为专业版
 
