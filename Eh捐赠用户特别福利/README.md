@@ -1,3 +1,8 @@
+
+
+
+# e站捐赠用户特别福利
+
 ## 目录
 
 *  [Eh捐赠教程](https://github.com/kk9448/ehDonate/blob/main/README.md)
@@ -8,10 +13,7 @@
 
 *  [Ehv最新版本下载](https://github.com/kk9448/ehDonate/tree/main/App下载教程)  
 
-*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠.md)
-
-
-# e站捐赠用户特别福利
+*  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠)
 
 有疑问的话, 欢迎加入群组讨论 https://t.me/carbon_research
 
