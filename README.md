@@ -19,7 +19,7 @@ https://t.me/carbon_research
 
 *  [E站捐赠用户特别福利](https://github.com/kk9448/ehDonate/tree/main/Eh捐赠用户特别福利)
 
-*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/币安购买美股教程)
+*  [内地购买美股教程](https://github.com/kk9448/ehDonate/tree/main/BN购买美股教程)
 
 *  [Ehv最新版本下载](https://github.com/kk9448/ehDonate/tree/main/App下载教程)  
 
