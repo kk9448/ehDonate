@@ -72,6 +72,7 @@ https://t.me/carbon_research
 
 [首次合约交易教程](https://github.com/kk9448/ehDonate/blob/main/合约交易教程.md)
 
+币安App下载链接
 [Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
 [币安iOS App下载教程](https://www.marketwebb.link/zh-CN/download-guide)  
 
