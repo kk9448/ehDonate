@@ -12,6 +12,9 @@
 
 *  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠)
 
+只需注册币安账户, 即刻购买美股
+------------
+[币安注册链接](https://www.bsmkweb.cc/join?ref=R1SE0A44) 
 
 国内炒美股一直比较困难
 
