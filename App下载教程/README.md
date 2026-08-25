@@ -11,7 +11,17 @@
 *  [代捐赠](https://github.com/kk9448/ehDonate/tree/main/Eh代捐赠)
 
 
-Ehv目前主要的版本如下
+币安App下载
+------------
+
+[Android币安App下载链接](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000526.apk)  
+
+[安卓手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/App下载教程/安卓手机下载币安App教程.md)  
+
+[苹果手机下载币安App教程](https://github.com/kk9448/ehDonate/blob/main/App下载教程/苹果手机下载币安App教程.md)
+
+
+Ehv各版本下载
 ------------
 
 **Ehviewer-xiaojieonly 版**  
