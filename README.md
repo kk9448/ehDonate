@@ -46,7 +46,7 @@ https://t.me/carbon_research
 
 **qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq**
 
-这就是我们的bch钱包地址, 复制下来, 我们之后要用
+这就是我们的bch钱包地址, 复制下来(请关闭自动翻译，会导致复制出错), 我们之后要用
 
 <div data-full-width="false"><figure><img src="media/eh_home.jpeg" alt=""><figcaption><p>获取自己的bch地址</p></figcaption></figure></div>
 
